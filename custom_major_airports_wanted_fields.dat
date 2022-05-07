@@ -1,0 +1,911 @@
+"Tirana International Airport Mother Teresa","Tirana","Albania","TIA",41.4146995544,19.7206001282
+"Graz Airport","Graz","Austria","GRZ",46.9911003112793,15.439599990844727
+"Innsbruck Airport","Innsbruck","Austria","INN",47.260201,11.344
+"Linz Hörsching Airport","Linz","Austria","LNZ",48.2332,14.1875
+"Salzburg Airport","Salzburg","Austria","SZG",47.793300628699996,13.0043001175
+"Vienna International Airport","Vienna","Austria","VIE",48.110298156738,16.569700241089
+"Klagenfurt Airport","Klagenfurt","Austria","KLU",46.642502,14.3377
+"Hohenems-Dornbirn Airport","Hohenems","Austria","HOH",47.3849983215,9.69999980927
+"Antwerp International Airport (Deurne)","Antwerp","Belgium","ANR",51.1893997192,4.46027994156
+"Brussels Airport","Brussels","Belgium","BRU",50.901401519800004,4.48443984985
+"Brussels South Charleroi Airport","Charleroi","Belgium","CRL",50.459202,4.45382
+"Wevelgem Airport","Kortrijk-vevelgem","Belgium","KJK",50.817199707,3.20472002029
+"Liège Airport","Liege","Belgium","LGG",50.63740158081055,5.443220138549805
+"Ostend-Bruges International Airport","Ostend","Belgium","OST",51.198898315399994,2.8622200489
+"Zoersel (Oostmalle) Airfield","Zoersel","Belgium","OBL",51.264702,4.75333
+"Mostar International Airport","Mostar","Bosnia and Herzegovina","OMO",43.282901763916016,17.84589958190918
+"Sarajevo International Airport","Sarajevo","Bosnia and Herzegovina","SJJ",43.82460021972656,18.331499099731445
+"Banja Luka International Airport","Banja Luka","Bosnia and Herzegovina","BNX",44.94139862060547,17.297500610351562
+"Tuzla International Airport","Null","Bosnia and Herzegovina","TZL",44.45869827270508,18.72480010986328
+"Burgas Airport","Bourgas","Bulgaria","BOJ",42.56959915161133,27.515199661254883
+"Gorna Oryahovitsa Airport","Gorna Orechovica","Bulgaria","GOZ",43.15140151977539,25.712900161743164
+"Plovdiv International Airport","Plovdiv","Bulgaria","PDV",42.067799,24.8508
+"Sofia Airport","Sofia","Bulgaria","SOF",42.696693420410156,23.411436080932617
+"Stara Zagora Airport","Stara Zagora","Bulgaria","SZR",42.3766667,25.655
+"Varna Airport","Varna","Bulgaria","VAR",43.232101,27.8251
+"Bezmer Air Base","Yambol","Bulgaria","JAM",42.4548988342,26.3521995544
+"Larnaca International Airport","Larnaca","Cyprus","LCA",34.875099182128906,33.624900817871094
+"Paphos International Airport","Paphos","Cyprus","PFO",34.71799850463867,32.48569869995117
+"RAF Akrotiri","Akrotiri","Cyprus","AKT",34.590401,32.9879
+"Ercan International Airport","Nicosia","Cyprus","ECN",35.154701232910156,33.49610137939453
+"Lefkoniko Airport","Geçitkale","Cyprus","GEC",35.235947,33.724358
+"Aarhus Airport","Aarhus","Denmark","AAR",56.2999992371,10.619000434899998
+"Billund Airport","Billund","Denmark","BLL",55.7402992249,9.15178012848
+"Copenhagen Kastrup Airport","Copenhagen","Denmark","CPH",55.617900848389,12.656000137329
+"Esbjerg Airport","Esbjerg","Denmark","EBJ",55.525902,8.5534
+"Karup Airport","Karup","Denmark","KRP",56.29750061035156,9.124629974365234
+"Læsø Airport","Laeso","Denmark","BYR",57.277198791503906,11.000100135803223
+"Lolland Falster Maribo Airport","Maribo","Denmark","MRW",54.699299,11.4401
+"Odense Airport","Odense","Denmark","ODE",55.47669982910156,10.330900192260742
+"Copenhagen Roskilde Airport","Copenhagen","Denmark","RKE",55.585601806640625,12.131400108337402
+"Bornholm Airport","Ronne","Denmark","RNN",55.06330108642578,14.759599685668945
+"Sønderborg Airport","Soenderborg","Denmark","SGD",54.96440124511719,9.791729927062988
+"Skrydstrup Air Base","Skrydstrup","Denmark","SKS",55.221048,9.26702
+"Skive Airport","Skive","Denmark","SQW",56.550201416015625,9.172980308532715
+"Thisted Airport","Thisted","Denmark","TED",57.06880187988281,8.705220222473145
+"Stauning Airport","Stauning","Denmark","STA",55.9901008605957,8.353910446166992
+"Aalborg Airport","Aalborg","Denmark","AAL",57.0927589138,9.84924316406
+"Sindal Airport","Sindal","Denmark","CNL",57.503502,10.2294
+"Cork Airport","Cork","Ireland","ORK",51.84130096435547,-8.491109848022461
+"Galway Airport","Galway","Ireland","GWY",53.300201416015625,-8.941590309143066
+"Dublin Airport","Dublin","Ireland","DUB",53.421299,-6.27007
+"Ireland West Knock Airport","Connaught","Ireland","NOC",53.910301208496094,-8.818490028381348
+"Kerry Airport","Kerry","Ireland","KIR",52.18090057373047,-9.52377986907959
+"Shannon Airport","Shannon","Ireland","SNN",52.702,-8.92482
+"Sligo Airport","Sligo","Ireland","SXL",54.280200958252,-8.5992097854614
+"Waterford Airport","Waterford","Ireland","WAT",52.187198638916016,-7.0869598388671875
+"Donegal Airport","Dongloe","Ireland","CFN",55.0442008972168,-8.340999603271484
+"Inishmore Aerodrome","Inis Mor","Ireland","IOR",53.1067008972168,-9.653610229492188
+"Connemara Regional Airport","Indreabhan","Ireland","NNR",53.23030090332031,-9.467780113220215
+"Inisheer Aerodrome","Inisheer","Ireland","INQ",53.064701080322266,-9.510899543762207
+"Inishmaan Aerodrome","Inishmaan","Ireland","IIA",53.09299850463867,-9.568059921264648
+"Bantry Aerodrome","Bantry","Ireland","BYT",51.66859817504883,-9.484169960021973
+"Kärdla Airport","Kardla","Estonia","KDL",58.99079895019531,22.830699920654297
+"Kuressaare Airport","Kuressaare","Estonia","URE",58.22990036010742,22.50950050354004
+"Pärnu Airport","Parnu","Estonia","EPU",58.41899871826172,24.47279930114746
+"Lennart Meri Tallinn Airport","Tallinn-ulemiste International","Estonia","TLL",59.41329956049999,24.832799911499997
+"Tartu Airport","Tartu","Estonia","TAY",58.3074989319,26.690399169900004
+"Kunovice Airport","Kunovice","Czech Republic","UHE",49.02939987182617,17.439699172973633
+"Karlovy Vary International Airport","Karlovy Vary","Czech Republic","KLV",50.202999114990234,12.914999961853027
+"Ostrava Leos Janáček Airport","Ostrava","Czech Republic","OSR",49.6963005065918,18.111099243164062
+"Pardubice Airport","Pardubice","Czech Republic","PED",50.01340103149414,15.73859977722168
+"Přerov Air Base","Prerov","Czech Republic","PRV",49.42580032348633,17.404699325561523
+"Václav Havel Airport Prague","Prague","Czech Republic","PRG",50.1008,14.26
+"Brno-Tuřany Airport","Brno","Czech Republic","BRQ",49.15129852294922,16.694400787353516
+"Vodochody Airport","Vodochody","Czech Republic","VOD",50.216599,14.3958
+"Enontekio Airport","Enontekio","Finland","ENF",68.362602233887,23.424299240112
+"Halli Airport","Halli","Finland","KEV",61.856039,24.786686
+"Helsinki Malmi Airport","Helsinki","Finland","HEM",60.254600524902344,25.042800903320312
+"Helsinki Vantaa Airport","Helsinki","Finland","HEL",60.317199707031,24.963300704956
+"Hyvinkää Airfield","Hyvinkaa","Finland","HYV",60.6543998718,24.8810997009
+"Kitee Airport","Kitee","Finland","KTQ",62.1661,30.073601
+"Ivalo Airport","Ivalo","Finland","IVL",68.607299804688,27.405300140381
+"Joensuu Airport","Joensuu","Finland","JOE",62.662899017334,29.607500076294
+"Jyvaskyla Airport","Jyvaskyla","Finland","JYV",62.399501800537,25.678300857544
+"Kauhava Airport","Kauhava","Finland","KAU",63.127102,23.051399
+"Kemi-Tornio Airport","Kemi","Finland","KEM",65.778701782227,24.582099914551
+"Kajaani Airport","Kajaani","Finland","KAJ",64.285499572754,27.692399978638
+"Kauhajoki Airport","Kauhajoki","Finland","KHJ",62.4625015259,22.3931007385
+"Kokkola-Pietarsaari Airport","Kruunupyy","Finland","KOK",63.721199035645,23.143100738525
+"Kuusamo Airport","Kuusamo","Finland","KAO",65.987602233887,29.239400863647
+"Kittilä Airport","Kittila","Finland","KTT",67.700996398926,24.846799850464
+"Kuopio Airport","Kuopio","Finland","KUO",63.007099151611,27.797800064087
+"Lahti Vesivehmaa Airport","Vesivehmaa","Finland","QLF",61.144199,25.693501
+"Lappeenranta Airport","Lappeenranta","Finland","LPP",61.044601,28.144743
+"Mariehamn Airport","Mariehamn","Finland","MHQ",60.122200012207,19.898199081421
+"Mikkeli Airport","Mikkeli","Finland","MIK",61.6866,27.201799
+"Oulu Airport","Oulu","Finland","OUL",64.930099487305,25.354600906372
+"Pori Airport","Pori","Finland","POR",61.461700439453,21.799999237061
+"Rovaniemi Airport","Rovaniemi","Finland","RVN",66.564796447754,25.830400466919
+"Savonlinna Airport","Savonlinna","Finland","SVL",61.943099975586,28.945100784302
+"Sodankyla Airport","Sodankyla","Finland","SOT",67.3949966431,26.6191005707
+"Tampere-Pirkkala Airport","Tampere","Finland","TMP",61.414100646973,23.604400634766
+"Turku Airport","Turku","Finland","TKU",60.514099121094,22.262800216675
+"Utti Air Base","Utti","Finland","UTI",60.89640045166,26.938400268555
+"Vaasa Airport","Vaasa","Finland","VAA",63.050701141357,21.762199401855
+"Varkaus Airport","Varkaus","Finland","VRK",62.171100616455,27.868600845337
+"Ylivieska Airfield","Ylivieska-raudaskyla","Finland","YLI",64.0547222,24.7252778
+"Seinäjoki Airport","Seinäjoki / Ilmajoki","Finland","SJY",62.692101,22.8323
+"Calais-Dunkerque Airport","Calais","France","CQF",50.962100982666016,1.954759955406189
+"Albert-Bray Airport","Albert","France","BYF",49.9715003967,2.69765996933
+"Le Touquet-Côte d'Opale Airport","Le Tourquet","France","LTQ",50.517398834228516,1.6205899715423584
+"Valenciennes-Denain Airport","Valenciennes","France","XVS",50.325801849365234,3.4612600803375244
+"Agen-La Garenne Airport","Agen","France","AGF",44.17470169067383,0.5905560255050659
+"Bordeaux-Mérignac Airport","Bordeaux","France","BOD",44.828300476100004,-0.715556025505
+"Bergerac-Roumanière Airport","Bergerac","France","EGC",44.82529830932617,0.5186110138893127
+"Cognac-Châteaubernard (BA 709) Air Base","Cognac","France","CNG",45.65829849243164,-0.3174999952316284
+"Poitiers-Biard Airport","Poitiers","France","PIS",46.58769989013672,0.30666598677635193
+"Montluçon-Guéret Airport","Montlucon-gueret","France","MCU",46.222599029541016,2.363960027694702
+"Limoges Airport","Limoges","France","LIG",45.86280059814453,1.1794400215148926
+"Niort-Souché Airport","Niort","France","NIT",46.313477,-0.394529
+"Toulouse-Blagnac Airport","Toulouse","France","TLS",43.629101,1.36382
+"Pau Pyrénées Airport","Pau","France","PUF",43.380001068115234,-0.41861099004745483
+"Tarbes-Lourdes-Pyrénées Airport","Tarbes","France","LDE",43.1786994934082,-0.006438999902456999
+"Angoulême-Brie-Champniers Airport","Angouleme","France","ANG",45.72919845581055,0.22145600616931915
+"Brive Souillac Airport","Brive","France","BVE",45.039722,1.485556
+"Périgueux-Bassillac Airport","Perigueux","France","PGX",45.19810104370117,0.815555989742279
+"Biarritz-Anglet-Bayonne Airport","Biarritz-bayonne","France","BIQ",43.4683333,-1.5311111
+"Cahors-Lalbenque Airport","Cahors","France","ZAO",44.35139846801758,1.4752800464630127
+"Albi-Le Séquestre Airport","Albi","France","LBI",43.91389846801758,2.1130599975585938
+"Castres-Mazamet Airport","Castres","France","DCM",43.55630111694336,2.289180040359497
+"Rodez-Marcillac Airport","Rodez","France","RDZ",44.407901763916016,2.4826700687408447
+"Royan-Médis Airport","Royan","France","RYN",45.62810134887695,-0.9725000262260437
+"Montauban Airport","Montauban","France","XMW",44.025699615478516,1.3780399560928345
+"Rochefort-Saint-Agnant (BA 721) Airport","Rochefort","France","RCO",45.88779830932617,-0.9830560088157654
+"Colmar-Houssen Airport","Colmar","France","CMR",48.109901428222656,7.359010219573975
+"Dole-Tavaux Airport","Dole","France","DLE",47.042686,5.435063
+"Aubenas-Ardèche Méridional Airport","Aubenas-vals-lanas","France","OBS",44.544203,4.372192
+"Le Puy-Loudes Airport","Le Puy","France","LPY",45.0806999206543,3.762890100479126
+"Metz-Nancy-Lorraine Airport","Metz","France","ETZ",48.9821014404,6.25131988525
+"Bastia-Poretta Airport","Bastia","France","BIA",42.55270004272461,9.48373031616211
+"Calvi-Sainte-Catherine Airport","Calvi","France","CLY",42.5244444,8.7930556
+"Figari Sud-Corse Airport","Figari","France","FSC",41.5005989074707,9.097780227661133
+"Ajaccio-Napoléon Bonaparte Airport","Ajaccio","France","AJA",41.92359924316406,8.8029203414917
+"Propriano Airport","Propriano","France","PRP",41.66059875488281,8.889749526977539
+"Solenzara (BA 126) Air Base","Solenzara","France","SOZ",41.924400329589844,9.406000137329102
+"Auxerre-Branches Airport","Auxerre","France","AUF",47.85020065307617,3.497109889984131
+"Chambéry-Savoie Airport","Chambery","France","CMF",45.638099670410156,5.880229949951172
+"Clermont-Ferrand Auvergne Airport","Clermont-Ferrand","France","CFE",45.7867012024,3.1691699028
+"Bourges Airport","Bourges","France","BOU",47.058101654052734,2.3702800273895264
+"Annemasse Airport","Annemasse","France","QNJ",46.1920013428,6.268390178680001
+"Lyon Saint-Exupéry Airport","Lyon","France","LYS",45.725556,5.081111
+"Saint-Yan Airport","St.-yan","France","SYT",46.412498474121094,4.0132598876953125
+"Roanne-Renaison Airport","Roanne","France","RNE",46.05830001831055,4.001389980316162
+"Annecy-Haute-Savoie-Mont Blanc Airport","Annecy","France","NCY",45.9308333,6.1063889
+"Grenoble-Isère Airport","Grenoble","France","GNB",45.36289978027344,5.329370021820068
+"Valence-Chabeuil Airport","Valence","France","VAF",44.9216,4.9699
+"Vichy-Charmeil Airport","Vichy","France","VHY",46.169700622558594,3.4037399291992188
+"Aurillac Airport","Aurillac","France","AUR",44.89139938354492,2.4219400882720947
+"Châteauroux-Déols ""Marcel Dassault"" Airport","Chateauroux","France","CHR",46.860278,1.721111
+"Lyon-Bron Airport","Lyon","France","LYN",45.72719955444336,4.944270133972168
+"Cannes-Mandelieu Airport","Cannes","France","CEQ",43.542,6.95348
+"Saint-Étienne-Bouthéon Airport","St-Etienne","France","EBU",45.54059982299805,4.296390056610107
+"Carcassonne Airport","Carcassonne","France","CCF",43.215999603271484,2.3063199520111084
+"Marseille Provence Airport","Marseille","France","MRS",43.439271922,5.22142410278
+"Nice-Côte d'Azur Airport","Nice","France","NCE",43.6584014893,7.215869903560001
+"Orange-Caritat (BA 115) Air Base","Orange","France","XOG",44.140499114990234,4.866720199584961
+"Perpignan-Rivesaltes (Llabanère) Airport","Perpignan","France","PGF",42.74039840698242,2.8706700801849365
+"Le Castellet Airport","Le Castellet","France","CTT",43.252498626708984,5.785190105438232
+"Montpellier-Méditerranée Airport","Montpellier","France","MPL",43.57619857788086,3.96301007270813
+"Béziers-Vias Airport","Beziers","France","BZR",43.32350158691406,3.3538999557495117
+"Avignon-Caumont Airport","Avignon","France","AVN",43.90729904174805,4.901830196380615
+"Mende-Brenoux Airfield","Mende","France","MEN",44.502102,3.53282
+"Paris Beauvais Tillé Airport","Beauvais","France","BVA",49.45439910888672,2.1127800941467285
+"Évreux-Fauville (BA 105) Air Base","Evreux","France","EVX",49.02870178222656,1.2198599576950073
+"Le Havre Octeville Airport","Le Havre","France","LEH",49.53390121459961,0.08805599808692932
+"Abbeville","Abbeville","France","XAB",50.143501,1.831891
+"Orléans-Bricy (BA 123) Air Base","Orleans","France","ORE",47.9878005981,1.7605600357100002
+"Châlons-Vatry Airport","Chalons","France","XCR",48.7733333333,4.206111111
+"Rouen Airport","Rouen","France","URO",49.38420104980469,1.1748000383377075
+"Tours-Val-de-Loire Airport","Tours","France","TUF",47.4322013855,0.727605998516
+"Cholet Le Pontreau Airport","Cholet","France","CET",47.08209991455078,-0.8770639896392822
+"Laval-Entrammes Airport","Laval","France","LVA",48.03139877319336,-0.7429860234260559
+"Paris-Le Bourget Airport","Paris","France","LBG",48.969398498535156,2.441390037536621
+"Creil Air Base","Creil","France","CSF",49.253501892089844,2.5191400051116943
+"Charles de Gaulle International Airport","Paris","France","CDG",49.012798,2.55
+"Toussus-le-Noble Airport","Toussous-le-noble","France","TNF",48.75189971923828,2.1061899662017822
+"Paris-Orly Airport","Paris","France","ORY",48.7233333,2.3794444
+"Pontoise - Cormeilles-en-Vexin Airport","Pontoise","France","POX",49.096667,2.040833
+"Villacoublay-Vélizy (BA 107) Air Base","Villacoublay","France","VIY",48.7741667,2.1916667
+"Nevers-Fourchambault Airport","Nevers","France","NVS",47.002601623535156,3.1133298873901367
+"Maubeuge-Élesmes Airport","Maubeuge","France","XME",50.31050109863281,4.033120155334473
+"Lille-Lesquin Airport","Lille","France","LIL",50.563332,3.086886
+"Merville-Calonne Airport","Merville","France","HZB",50.61840057373047,2.642240047454834
+"Charleville-Mézières Airport","Charleville","France","XCZ",49.78390121459961,4.647079944610596
+"Brest Bretagne Airport","Brest","France","BES",48.447898864746094,-4.418540000915527
+"Cherbourg-Maupertus Airport","Cherbourg","France","CER",49.65010070800781,-1.4702800512313843
+"Dinard-Pleurtuit-Saint-Malo Airport","Dinard","France","DNR",48.58769989013672,-2.0799601078033447
+"La Baule-Escoublac Airport","La Baule","France","LBY",47.289398193359375,-2.3463900089263916
+"Granville Airport","Granville","France","GFR",48.88309860229492,-1.564170002937317
+"Deauville-Saint-Gatien Airport","Deauville","France","DOL",49.3652992249,0.154305994511
+"Lorient South Brittany (Bretagne Sud) Airport","Lorient","France","LRT",47.76060104370117,-3.440000057220459
+"La Roche-sur-Yon Airport","La Roche-sur-yon","France","EDM",46.701900482177734,-1.3786300420761108
+"Landivisiau Air Base","Landivisiau","France","LDV",48.53030014038086,-4.151639938354492
+"Caen-Carpiquet Airport","Caen","France","CFR",49.173301696777344,-0.44999998807907104
+"Le Mans-Arnage Airport","Le Mans","France","LME",47.94860076904297,0.20166699588298798
+"Rennes-Saint-Jacques Airport","Rennes","France","RNS",48.069499969499994,-1.73478996754
+"Lannion-Côte de Granit Airport","Lannion","France","LAI",48.754398,-3.47166
+"Quimper-Cornouaille Airport","Quimper","France","UIP",47.974998474121094,-4.167789936065674
+"Nantes Atlantique Airport","Nantes","France","NTE",47.153198242200006,-1.61073005199
+"Saint-Brieuc-Armor Airport","St.-brieuc Armor","France","SBK",48.5378,-2.85444
+"Morlaix-Ploujean Airport","Morlaix","France","MXN",48.6031990051,-3.81577992439
+"Vannes-Meucon Airport","Vannes","France","VNE",47.72330093383789,-2.718559980392456
+"Saint-Nazaire-Montoir Airport","St.-nazaire","France","SNR",47.3105556,-2.1566667
+"EuroAirport Basel-Mulhouse-Freiburg Airport","Mulhouse","France","BSL",47.59,7.5291667
+"Dijon-Bourgogne Airport","Dijon","France","DIJ",47.268902,5.09
+"Metz-Frescaty (BA 128) Air Base","Metz","France","MZM",49.07170104980469,6.131669998168945
+"Épinal-Mirecourt Airport","Epinal","France","EPL",48.325001,6.06998
+"Nancy-Essey Airport","Nancy","France","ENC",48.692100524902344,6.230460166931152
+"Reims-Champagne (BA 112) Air Base","Reims","France","RHE",49.310001,4.05
+"Strasbourg Airport","Strasbourg","France","SXB",48.538299560546875,7.628230094909668
+"Toulon-Hyères Airport","Hyeres","France","TLN",43.0973014832,6.14602994919
+"Nîmes-Arles-Camargue Airport","Nimes","France","FNI",43.75740051269531,4.4163498878479
+"Île d'Yeu Airport","Île d'Yeu","France","IDY",46.71860122680664,-2.3911099433898926
+"Angers-Loire Airport","Angers/Marcé","France","ANE",47.560299,-0.312222
+"La Môle Airport","La Môle","France","LTT",43.205399,6.482
+"Gustaf III Airport","Gustavia","France","SBH",17.904399871826172,-62.84360122680664
+"Courchevel Airport","Courcheval","France","CVF",45.39670181274414,6.6347198486328125
+"La Rochelle-Île de Ré Airport","La Rochelle","France","LRH",46.17919921875,-1.1952799558639526
+"Fréjus Airport","Frejus","France","FRJ",43.4175,6.7357
+"Megève Airport","Verdun","France","MVV",45.82080078125,6.652219772338867
+"Méribel Altiport","Ajaccio","France","MFX",45.407003,6.577942
+"Fontaine Airport","Belfort","France","BOR",47.655601501465,7.0108299255371
+"Gibraltar Airport","Gibraltar","Gibraltar","GIB",36.1511993408,-5.3496599197400005
+"Alderney Airport","Alderney","Guernsey","ACI",49.706104,-2.21472
+"Guernsey Airport","Guernsey","Guernsey","GCI",49.435001373291016,-2.6019699573516846
+"Narsarsuaq Airport","Narssarssuaq","Greenland","UAK",61.1604995728,-45.4259986877
+"Godthaab / Nuuk Airport","Godthaab","Greenland","GOH",64.19090271,-51.6781005859
+"Kangerlussuaq Airport","Sondrestrom","Greenland","SFJ",67.0122218992,-50.7116031647
+"Thule Air Base","Thule","Greenland","THU",76.5311965942,-68.7032012939
+"Ilulissat Airport","Ilulissat","Greenland","JAV",69.2432022095,-51.0570983887
+"Qasigiannguit Heliport","Qasigiannguit","Greenland","JCH",68.822815547,-51.1734473705
+"Aasiaat Airport","Aasiaat","Greenland","JEG",68.7218017578,-52.7846984863
+"Alluitsup Paa Heliport","Alluitsup Paa","Greenland","LLU",60.46445,-45.56917
+"Neerlerit Inaat Airport","Neerlerit Inaat","Greenland","CNP",70.7431030273,-22.6504993439
+"Paamiut Heliport","Paamiut","Greenland","JFR",61.9921989441,-49.6624984741
+"Qeqertarsuaq Heliport","Qeqertarsuaq Airport","Greenland","JGO",69.251181993,-53.5148763657
+"Qaqortoq Heliport","Qaqortoq","Greenland","JJU",60.715684155299996,-46.0299186409
+"Maniitsoq Airport","Maniitsoq","Greenland","JSU",65.4124984741,-52.9393997192
+"Nanortalik Heliport","Nanortalik","Greenland","JNN",60.141883975899994,-45.232976675
+"Narsaq Heliport","Narsaq","Greenland","JNS",60.9172827256,-46.059923172
+"Qaanaaq Airport","Qaanaaq","Greenland","NAQ",77.4886016846,-69.3887023926
+"Sisimiut Airport","Sisimiut","Greenland","JHS",66.9513015747,-53.7293014526
+"Upernavik Airport","Upernavik","Greenland","JUV",72.7901992798,-56.1305999756
+"Qaarsut Airport","Uummannaq","Greenland","JQA",70.7341995239,-52.6962013245
+"Ittoqqortoormiit Heliport","Ittoqqortoormiit","Greenland","OBY",70.4882288244,-21.971679925900002
+"Uummannaq Heliport","Uummannaq","Greenland","UMD",70.6804279261,-52.111630439799995
+"Attu Heliport","Attu","Greenland","QGQ",67.9406628551,-53.6218696833
+"Kangaatsiaq Heliport","Kangaatsiaq","Greenland","QPW",68.3126574861,-53.4602075815
+"Kitsissuarsuit Heliport","Kitsissuarsuit","Greenland","QJE",68.85792599759999,-53.123295307199996
+"Ilimanaq Heliport","Ilimanaq","Greenland","XIQ",69.0809150007,-51.1143153906
+"Qeqertaq Heliport","Qeqertaq","Greenland","QQT",69.9958611087,-51.3009166718
+"Ikamiut Heliport","Ikamiut","Greenland","QJI",68.6342530984,-51.8322622776
+"Eqalugaarsuit Heliport","Eqalugaarsuit","Greenland","QFG",60.6197196536,-45.9140619636
+"Ikerassaarsuk Heliport","Ikerasaarsuk","Greenland","QRY",68.14088100629999,-53.4414589405
+"Altenburg-Nobitz Airport","Altenburg","Germany","AOC",50.981945,12.506389
+"Riesa-Göhlis Airport","Riesa","Germany","IES",51.2936096191,13.3561105728
+"Rechlin-Lärz Airport","Rechlin-laerz","Germany","REB",53.306388855,12.7522220612
+"Schönhagen Airport","Schoenhagen","Germany","QXH",52.203609,13.156389
+"Barth Airport","Barth","Germany","BBH",54.338253,12.710515
+"Magdeburg ""City"" Airport","Magdeburg","Germany","ZMG",52.073612,11.626389
+"Cottbus-Drewitz Airport","Cottbus","Germany","CBU",51.889442,14.531944
+"Berlin-Schönefeld Airport","Berlin","Germany","SXF",52.380001,13.5225
+"Dresden Airport","Dresden","Germany","DRS",51.1328010559082,13.767200469970703
+"Erfurt Airport","Erfurt","Germany","ERF",50.979801177978516,10.958100318908691
+"Frankfurt am Main Airport","Frankfurt","Germany","FRA",50.033333,8.570556
+"Münster Osnabrück Airport","Munster","Germany","FMO",52.134601593,7.68483018875
+"Hamburg Airport","Hamburg","Germany","HAM",53.630401611328,9.9882297515869
+"Berlin-Tempelhof International Airport","Berlin","Germany","THF",52.472999572753906,13.403900146484375
+"Cologne Bonn Airport","Cologne","Germany","CGN",50.8658981323,7.1427397728
+"Düsseldorf Airport","Duesseldorf","Germany","DUS",51.289501,6.76678
+"Munich Airport","Munich","Germany","MUC",48.353802,11.7861
+"Nuremberg Airport","Nuernberg","Germany","NUE",49.498699,11.078056
+"Leipzig/Halle Airport","Leipzig","Germany","LEJ",51.423889,12.236389
+"Saarbrücken Airport","Saarbruecken","Germany","SCN",49.214599609400004,7.10950994492
+"Stuttgart Airport","Stuttgart","Germany","STR",48.689899444599995,9.22196006775
+"Berlin-Tegel Airport","Berlin","Germany","TXL",52.5597,13.2877
+"Hannover Airport","Hannover","Germany","HAJ",52.461101532,9.685079574580001
+"Bremen Airport","Bremen","Germany","BRE",53.0475006104,8.78666973114
+"Frankfurt-Egelsbach Airport","Egelsbach","Germany","QEF",49.959999,8.645833
+"Frankfurt-Hahn Airport","Hahn","Germany","HHN",49.9487,7.26389
+"Mannheim-City Airport","Mannheim","Germany","MHG",49.473057,8.514167
+"Eisenach-Kindel Airport","Eisenach","Germany","EIB",50.991604,10.47973
+"Siegerland Airport","Siegerland","Germany","SGE",50.707698822021484,8.082969665527344
+"Hamburg-Finkenwerder Airport","Hamburg","Germany","XFW",53.5352783203125,9.835556030273438
+"Kiel-Holtenau Airport","Kiel","Germany","KEL",54.37944412231445,10.145277976989746
+"Lübeck Blankensee Airport","Luebeck","Germany","LBC",53.8054008484,10.7192001343
+"Essen Mulheim Airport","Essen","Germany","ESS",51.40230178833008,6.9373297691345215
+"Bielefeld Airport","Bielefeld","Germany","BFE",51.964722,8.544444
+"Mönchengladbach Airport","Moenchengladbach","Germany","MGL",51.230278,6.504444
+"Paderborn Lippstadt Airport","Paderborn","Germany","PAD",51.614101409899995,8.616319656369999
+"Dortmund Airport","Dortmund","Germany","DTM",51.51829910279999,7.61223983765
+"Augsburg Airport","Augsburg","Germany","AGB",48.425278,10.931667
+"Oberpfaffenhofen Airport","Oberpfaffenhofen","Germany","OBF",48.081402,11.2831
+"Straubing Airport","Straubing","Germany","RBM",48.90083312988281,12.516667366027832
+"Friedrichshafen Airport","Friedrichshafen","Germany","FDH",47.671298980699994,9.51148986816
+"Schwerin Parchim Airport","Parchim","Germany","SZW",53.426998,11.7834
+"Bayreuth Airport","Bayreuth","Germany","BYU",49.985001,11.64
+"Burg Feuerstein Airport","Burg Feuerstein","Germany","URD",49.794166564941,11.133610725403
+"Hof-Plauen Airport","Hof","Germany","HOQ",50.288612365722656,11.856389045715332
+"Zweibrücken Airport","Zweibruecken","Germany","ZQW",49.2094,7.40056
+"Donaueschingen-Villingen Airport","Donaueschingen","Germany","ZQL",47.97333145139999,8.52222156525
+"Braunschweig-Wolfsburg Airport","Braunschweig","Germany","BWE",52.319199,10.5561
+"Kassel-Calden Airport","Kassel","Germany","KSF",51.417273,9.384967
+"Bremerhaven Airport","Bremerhaven","Germany","BRV",53.506943,8.572778
+"Emden Airport","Emden","Germany","EME",53.391109,7.2275
+"Wilhelmshaven-Mariensiel Airport","Wilhelmshaven","Germany","WVN",53.502220153808594,8.05222225189209
+"Borkum Airport","Borkum","Germany","BMK",53.59639,6.709167
+"Norderney Airport","Norderney","Germany","NRD",53.70694351196289,7.230000019073486
+"Flensburg-Schäferhaus Airport","Flensburg","Germany","FLF",54.77333450317383,9.378889083862305
+"Westerland Sylt Airport","Westerland","Germany","GWT",54.9132003784,8.34047031403
+"Spangdahlem Air Base","Spangdahlem","Germany","SPM",49.9726982117,6.69250011444
+"Ramstein Air Base","Ramstein","Germany","RMS",49.4369010925293,7.600279808044434
+"[Duplicate] Giebelstadt Army Air Field","Giebelstadt","Germany","GHF",49.648101806599996,9.966489791870002
+"Celle Airport","Celle","Germany","ZCN",52.59120178222656,10.022100448608398
+"Fritzlar Airport","Fritzlar","Germany","FRZ",51.1146,9.286
+"Hanau Army Air Field","Hanau","Germany","ZNF",50.169201,8.96159
+"Flugplatz Kitzingen","Kitzingen","Germany","KZG",49.743099,10.2006
+"Nordholz Naval Airbase","Nordholz","Germany","FCN",53.7677001953,8.658499717709999
+"Geilenkirchen Air Base","Geilenkirchen","Germany","GKE",50.9608,6.04242
+"Rostock-Laage Airport","Laage","Germany","RLG",53.9182014465,12.278300285299999
+"Schleswig Air Base","Schleswig","Germany","WBG",54.459301,9.51633
+"Wiesbaden Army Airfield","Wiesbaden","Germany","WIE",50.049800872802734,8.325400352478027
+"Fürstenfeldbruck Air Base","Fuerstenfeldbruck","Germany","FEL",48.205555,11.266944
+"Ingolstadt Manching Airport","Ingolstadt","Germany","IGS",48.7156982421875,11.534000396728516
+"Gütersloh Air Base","Guetersloh","Germany","GUT",51.922798,8.30633
+"Memmingen Allgau Airport","Memmingen","Germany","FMM",47.988800048799995,10.2395000458
+"Aachen-Merzbrück Airport","Aachen","Germany","AAH",50.823055267333984,6.186388969421387
+"Karlsruhe Baden-Baden Airport","Karlsruhe/Baden-Baden","Germany","FKB",48.7793998718,8.08049964905
+"Weeze Airport","Weeze","Germany","NRN",51.6024017334,6.14216995239
+"Norden-Norddeich Airport","Norden","Germany","NOD",53.633056640599996,7.19027805328
+"Juist Airport","Juist","Germany","JUI",53.68111038208008,7.055832862854004
+"Heringsdorf Airport","Heringsdorf","Germany","HDF",53.8787002563,14.152299881
+"Heide-Büsum Airport","Büsum","Germany","HEI",54.153331756600004,8.90166664124
+"Helgoland-Düne Airport","Helgoland","Germany","HGL",54.185279846200004,7.91583299637
+"Rügen Airport","Ruegen","Germany","GTI",54.3833312988,13.3255558014
+"Wangerooge Airport","Wangerooge","Germany","AGE",53.782779693603516,7.913888931274414
+"Langeoog Airport","Langeoog","Germany","LGO",53.74250030517578,7.497777938842773
+"Emporia Municipal Airport","Kempten","Germany","EMP",38.3320999146,-96.19120025630001
+"Hunt Field","Lindau","Germany","LND",42.8152008057,-108.730003357
+"Lahr Airport","Lahr","Germany","LHA",48.3693008423,7.82772016525
+"Cochstedt Airport","Cochstedt","Germany","CSO",51.8563995361,11.42029953
+"Köthen Airport","Koethen","Germany","KOQ",51.7211112976,11.952777862500001
+"St. Peter-Ording Airport","Sankt Peter-Ording","Germany","PSH",54.30888748168945,8.686944007873535
+"Peenemünde Airport","Peenemunde","Germany","PEF",54.1577796936,13.774443626399998
+"Bitburg Airport","Birburg","Germany","BBJ",49.945278,6.565
+"Neumünster Airport","Neumuenster","Germany","EUM",54.079444885253906,9.941389083862305
+"Neubrandenburg Airport","Neubrandenburg","Germany","FNB",53.6022,13.306
+"Baltrum Airport","Baltrum","Germany","BMR",53.72472381591797,7.373332977294922
+"Bonn-Hangelar Airport","Sankt-Augustin","Germany","BNJ",50.7688903809,7.16333293915
+"Andravida Air Base","Andravida","Greece","PYR",37.9207,21.292601
+"Agrinion Air Base","Agrinion","Greece","AGQ",38.602001,21.3512001
+"Dimokritos Airport","Alexandroupolis","Greece","AXD",40.855899810791016,25.956300735473633
+"Nea Anchialos Airport","Nea Anghialos","Greece","VOL",39.219600677490234,22.794300079345703
+"Chios Island National Airport","Chios","Greece","JKH",38.34320068359375,26.140600204467773
+"Ioannina Airport","Ioannina","Greece","IOA",39.6963996887207,20.822500228881836
+"Heraklion International Nikos Kazantzakis Airport","Heraklion","Greece","HER",35.3396987915,25.180299758900002
+"Kastoria National Airport","Kastoria","Greece","KSO",40.4463005066,21.2821998596
+"Kithira Airport","Kithira","Greece","KIT",36.2742996216,23.0170001984
+"Kefallinia Airport","Keffallinia","Greece","EFL",38.12009811401367,20.500499725341797
+"Kalamata Airport","Kalamata","Greece","KLX",37.06829833984375,22.02549934387207
+"Kos Airport","Kos","Greece","KGS",36.79330062866211,27.091699600219727
+"Karpathos Airport","Karpathos","Greece","AOK",35.4213981628418,27.145999908447266
+"Ioannis Kapodistrias International Airport","Kerkyra/corfu","Greece","CFU",39.601898193359375,19.911699295043945
+"Kasos Airport","Kasos","Greece","KSJ",35.4213981628,26.909999847399998
+"Alexander the Great International Airport","Kavala","Greece","KVA",40.913299560546875,24.619199752807617
+"Filippos Airport","Kozani","Greece","KZI",40.28609848022461,21.84079933166504
+"Leros Airport","Leros","Greece","LRS",37.184898,26.800301
+"Limnos Airport","Limnos","Greece","LXS",39.917098999,25.236299514799995
+"Larisa Airport","Larissa","Greece","LRA",39.650253,22.4655
+"Mikonos Airport","Mykonos","Greece","JMK",37.43510055541992,25.348100662231445
+"Mytilene International Airport","Mytilini","Greece","MJT",39.0567016602,26.5983009338
+"Aktion National Airport","Preveza","Greece","PVK",38.925498962402344,20.765300750732422
+"Diagoras Airport","Rhodos","Greece","RHO",36.405399322509766,28.086200714111328
+"Araxos Airport","Patras","Greece","GPA",38.1511,21.4256
+"Chania International Airport","Chania","Greece","CHQ",35.531700134277344,24.149700164794922
+"Skiathos Island National Airport","Skiathos","Greece","JSI",39.177101135253906,23.503700256347656
+"Samos Airport","Samos","Greece","SMI",37.689998626708984,26.911699295043945
+"Sparti Airport","Sparti","Greece","SPJ",36.973899841308594,22.52630043029785
+"Santorini Airport","Thira","Greece","JTR",36.399200439453125,25.479299545288086
+"Sitia Airport","Sitia","Greece","JSH",35.21609878540039,26.101299285888672
+"Skiros Airport","Skiros","Greece","SKU",38.9676017761,24.4871997833
+"Thessaloniki Macedonia International Airport","Thessaloniki","Greece","SKG",40.51969909667969,22.97089958190918
+"Zakynthos International Airport ""Dionysios Solomos""","Zakynthos","Greece","ZTH",37.7509,20.8843
+"Eleftherios Venizelos International Airport","Athens","Greece","ATH",37.9364013672,23.9444999695
+"Athen Helenikon Airport","Athens","Greece","HEW",37.893299,23.726101
+"Astypalaia Airport","Astypalaia","Greece","JTY",36.5798988342,26.3757991791
+"Ikaria Airport","Ikaria","Greece","JIK",37.6827011108,26.3470993042
+"Kalymnos Airport","Kalymnos","Greece","JKL",36.9632987976,26.9405994415
+"Milos Airport","Milos","Greece","MLO",36.696899,24.4769
+"Naxos Airport","Cyclades Islands","Greece","JNX",37.0811004639,25.3680992126
+"Paros National Airport","Paros","Greece","PAS",37.020495,25.113195
+"Kastelorizo Airport","Kastelorizo","Greece","KZS",36.1417007446,29.576400756799995
+"Syros Airport","Syros Island","Greece","JSY",37.4227981567,24.950899124099998
+"Porto Cheli Airport","Porto Heli","Greece","PKH",37.297501,23.1478
+"Dubrovnik Airport","Dubrovnik","Croatia","DBV",42.5614013671875,18.268199920654297
+"Osijek Airport","Osijek","Croatia","OSI",45.46269989013672,18.810199737548828
+"Pula Airport","Pula","Croatia","PUY",44.89350128173828,13.922200202941895
+"Rijeka Airport","Rijeka","Croatia","RJK",45.21689987182617,14.570300102233887
+"Split Airport","Split","Croatia","SPU",43.53889846801758,16.29800033569336
+"Zagreb Airport","Zagreb","Croatia","ZAG",45.7429008484,16.0687999725
+"Zadar Airport","Zadar","Croatia","ZAD",44.108299,15.3467
+"Bol Airport","Brac","Croatia","BWK",43.285701751708984,16.67970085144043
+"Lošinj Island Airport","Mali Losinj","Croatia","LSZ",44.5657997131,14.3930997849
+"Budapest Liszt Ferenc International Airport","Budapest","Hungary","BUD",47.42976,19.261093
+"Debrecen International Airport","Debrecen","Hungary","DEB",47.48889923095703,21.615299224853516
+"Pécs-Pogány Airport","Pécs-Pogány","Hungary","PEV",45.990898,18.240996
+"Sármellék International Airport","Sármellék","Hungary","SOB",46.686391,17.159084
+"Akureyri Airport","Akureyri","Iceland","AEY",65.66000366210938,-18.07270050048828
+"Egilsstaðir Airport","Egilsstadir","Iceland","EGS",65.2833023071289,-14.401399612426758
+"Hornafjörður Airport","Hofn","Iceland","HFN",64.295601,-15.2272
+"Húsavík Airport","Husavik","Iceland","HZK",65.952301,-17.426001
+"Ísafjörður Airport","Isafjordur","Iceland","IFJ",66.05809783935547,-23.135299682617188
+"Keflavik International Airport","Keflavik","Iceland","KEF",63.985000610352,-22.605600357056
+"Patreksfjörður Airport","Patreksfjordur","Iceland","PFJ",65.555801,-23.965
+"Reykjavik Airport","Reykjavik","Iceland","RKV",64.1299972534,-21.9405994415
+"Siglufjörður Airport","Siglufjordur","Iceland","SIJ",66.133301,-18.9167
+"Vestmannaeyjar Airport","Vestmannaeyjar","Iceland","VEY",63.42430114746094,-20.278900146484375
+"Grímsey Airport","Grímsey","Iceland","GRY",66.5458,-18.0173
+"Thorshofn Airport","Thorshofn","Iceland","THO",66.21849822998047,-15.335599899291992
+"Vopnafjörður Airport","Vopnafjörður","Iceland","VPN",65.72059631347656,-14.850600242614746
+"Reykjahlíð Airport","Myvatn","Iceland","MVA",65.65579986572266,-16.918100357055664
+"Bildudalur Airport","Bildudalur","Iceland","BIU",65.64129638671875,-23.546199798583984
+"Gjögur Airport","Gjogur","Iceland","GJR",65.99530029296875,-21.326900482177734
+"Sauðárkrókur Airport","Saudarkrokur","Iceland","SAK",65.73169708249999,-19.572799682599996
+"Norðfjörður Airport","Nordfjordur","Iceland","NOR",65.13189697265625,-13.746399879455566
+"Grundarfjörður Airport","Grundarfjordur","Iceland","GUU",64.99140167236328,-23.224700927734375
+"Isle of Man Airport","Isle Of Man","Isle of Man","IOM",54.08330154418945,-4.623889923095703
+"Crotone Airport","Crotone","Italy","CRV",38.9972,17.0802
+"Bari Karol Wojtyła Airport","Bari","Italy","BRI",41.138901,16.760599
+"Foggia ""Gino Lisa"" Airport","Foggia","Italy","FOG",41.432899,15.535
+"Taranto-Grottaglie ""Marcello Arlotta"" Airport","Grottaglie","Italy","TAR",40.517502,17.4032
+"Lecce Galatina Air Base","Lecce","Italy","LCC",40.239201,18.133301
+"Pescara International Airport","Pescara","Italy","PSR",42.431702,14.1811
+"Brindisi – Salento Airport","Brindisi","Italy","BDS",40.6576,17.947001
+"Lamezia Terme Airport","Lamezia","Italy","SUF",38.905399,16.2423
+"Catania-Fontanarossa Airport","Catania","Italy","CTA",37.466801,15.0664
+"Lampedusa Airport","Lampedusa","Italy","LMP",35.497898,12.6181
+"Pantelleria Airport","Pantelleria","Italy","PNL",36.816502,11.9689
+"Falcone–Borsellino Airport","Palermo","Italy","PMO",38.175999,13.091
+"Reggio Calabria Airport","Reggio Calabria","Italy","REG",38.071201,15.6516
+"Vincenzo Florio Airport Trapani-Birgi","Trapani","Italy","TPS",37.9114,12.488
+"Sigonella Navy Air Base","Sigonella","Italy","NSY",37.401699,14.9224
+"Alghero-Fertilia Airport","Alghero","Italy","AHO",40.632099,8.29077
+"Decimomannu Air Base","Decimomannu","Italy","DCI",39.354198,8.97248
+"Cagliari Elmas Airport","Cagliari","Italy","CAG",39.251499,9.05428
+"Olbia Costa Smeralda Airport","Olbia","Italy","OLB",40.898701,9.51763
+"Tortolì Airport","Tortoli","Italy","TTB",39.9188,9.68298
+"Malpensa International Airport","Milano","Italy","MXP",45.6306,8.72811
+"Il Caravaggio International Airport","Bergamo","Italy","BGY",45.673901,9.70417
+"Turin Airport","Torino","Italy","TRN",45.200802,7.64963
+"Villanova D'Albenga International Airport","Albenga","Italy","ALL",44.050598,8.12743
+"Genoa Cristoforo Colombo Airport","Genoa","Italy","GOA",44.4133,8.8375
+"Milano Linate Airport","Milan","Italy","LIN",45.445099,9.27674
+"Parma Airport","Parma","Italy","PMF",44.824501,10.2964
+"Cuneo International Airport","Cuneo","Italy","CUF",44.547001,7.62322
+"Aviano Air Base","Aviano","Italy","AVB",46.031898,12.596503
+"Bolzano Airport","Bolzano","Italy","BZO",46.460201,11.3264
+"Bologna Guglielmo Marconi Airport","Bologna","Italy","BLQ",44.5354,11.2887
+"Treviso-Sant'Angelo Airport","Treviso","Italy","TSF",45.648399,12.1944
+"Forlì Airport","Forli","Italy","FRL",44.194801,12.0701
+"Brescia Airport","Brescia","Italy","VBS",45.428902,10.3306
+"Trieste–Friuli Venezia Giulia Airport","Ronchi De Legionari","Italy","TRS",45.827499,13.4722
+"Federico Fellini International Airport","Rimini","Italy","RMI",44.020302,12.6117
+"Vicenza Airport","Vicenza","Italy","VIC",45.573399,11.5295
+"Padova Airport","Padova","Italy","QPA",45.395802,11.8479
+"Verona Villafranca Airport","Villafranca","Italy","VRN",45.395699,10.8885
+"Venice Marco Polo Airport","Venice","Italy","VCE",45.505299,12.3519
+"Siena-Ampugnano Airport","Siena","Italy","SAY",43.256302,11.255
+"Ciampino–G. B. Pastine International Airport","Rome","Italy","CIA",41.7994,12.5949
+"Leonardo da Vinci–Fiumicino Airport","Rome","Italy","FCO",41.8002778,12.2388889
+"Marina Di Campo Airport","Marina Di Campo","Italy","EBA",42.7603,10.2394
+"Latina Air Base","Latina","Italy","QLT",41.5424,12.909
+"Naples International Airport","Naples","Italy","NAP",40.886002,14.2908
+"Pisa International Airport","Pisa","Italy","PSA",43.683899,10.3927
+"Peretola Airport","Florence","Italy","FLR",43.810001,11.2051
+"Grosseto Air Base","Grosseto","Italy","GRS",42.759701,11.0719
+"Perugia San Francesco d'Assisi – Umbria International Airport","Perugia","Italy","PEG",43.095901,12.5132
+"Ancona Falconara Airport","Ancona","Italy","AOI",43.616299,13.3623
+"Aosta Airport","Aosta","Italy","AOT",45.738499,7.36872
+"Salerno Costa d'Amalfi Airport","Salerno","Italy","QSR",40.620399,14.9113
+"Oristano-Fenosu Airport","Oristano","Italy","FNU",39.895308,8.642661
+"Comiso Airport","Comiso","Italy","CIY",36.994601,14.607182
+"Sarzana-Luni Air Base","Sarzana (SP)","Italy","QLP",44.088001,9.98795
+"Jersey Airport","Jersey","Jersey","JER",49.20790100097656,-2.195509910583496
+"Liepāja International Airport","Liepaja","Latvia","LPX",56.51750183105469,21.096900939941406
+"Riga International Airport","Riga","Latvia","RIX",56.92359924316406,23.971099853515625
+"Ventspils International Airport","Ventspils","Latvia","VNT",57.35779953,21.5442008972
+"Daugavpils Intrenational Airport","Daugavpils","Latvia","DGP",55.944721221900004,26.6650009155
+"Šiauliai International Airport","Siauliai","Lithuania","SQQ",55.89390182495117,23.395000457763672
+"Barysiai Airport","Barysiai","Lithuania","HLJ",56.07059860229492,23.5580997467041
+"Kaunas International Airport","Kaunas","Lithuania","KUN",54.96390151977539,24.084800720214844
+"Palanga International Airport","Palanga","Lithuania","PLQ",55.973201751708984,21.093900680541992
+"Vilnius International Airport","Vilnius","Lithuania","VNO",54.634102,25.285801
+"Panevėžys Air Base","Panevezys","Lithuania","PNV",55.729400634765625,24.460800170898438
+"Klaipėda Airport","Klaipeda","Lithuania","KLJ",55.7118988037,21.242799758900002
+"M. R. Štefánik Airport","Bratislava","Slovakia","BTS",48.17020034790039,17.21269989013672
+"Košice Airport","Kosice","Slovakia","KSC",48.66310119628906,21.241100311279297
+"Piešťany Airport","Piestany","Slovakia","PZY",48.62519836425781,17.828399658203125
+"Sliač Airport","Sliac","Slovakia","SLD",48.63779830932617,19.13409996032715
+"Poprad-Tatry Airport","Poprad","Slovakia","TAT",49.073600769,20.2411003113
+"Žilina Airport","Žilina","Slovakia","ILZ",49.231498718299996,18.6135005951
+"Luxembourg-Findel International Airport","Luxemburg","Luxembourg","LUX",49.6233333,6.2044444
+"Bălți International Airport","Saltsy","Moldova","BZY",47.843056,27.777222
+"Chişinău International Airport","Chisinau","Moldova","KIV",46.92770004272461,28.930999755859375
+"Podgorica Airport","Podgorica","Montenegro","TGD",42.359402,19.2519
+"Tivat Airport","Tivat","Montenegro","TIV",42.404701232910156,18.72330093383789
+"Ohrid St. Paul the Apostle Airport","Ohrid","Macedonia","OHD",41.18,20.7423
+"Skopje Alexander the Great Airport","Skopje","Macedonia","SKP",41.961601,21.621401
+"Malta International Airport","Malta","Malta","MLA",35.857498,14.4775
+"Xewkija Heliport","Gozo","Malta","GZM",36.027199,14.2728
+"Amsterdam Airport Schiphol","Amsterdam","Netherlands","AMS",52.308601,4.76389
+"Maastricht Aachen Airport","Maastricht","Netherlands","MST",50.911701,5.77014
+"Eindhoven Airport","Eindhoven","Netherlands","EIN",51.4500999451,5.37452983856
+"Eelde Airport","Groningen","Netherlands","GRQ",53.1197013855,6.57944011688
+"Gilze Rijen Air Base","Gilze-rijen","Netherlands","GLZ",51.56740188598633,4.931829929351807
+"De Kooy Airport","De Kooy","Netherlands","DHR",52.92340087890625,4.780620098114014
+"Lelystad Airport","Lelystad","Netherlands","LEY",52.4603,5.52722
+"Leeuwarden Air Base","Leeuwarden","Netherlands","LWR",53.228599548339844,5.760560035705566
+"Rotterdam The Hague Airport","Rotterdam","Netherlands","RTM",51.956902,4.43722
+"Soesterberg Air Base","Soesterberg","Netherlands","UTC",52.1273002625,5.27618980408
+"Twente Airport","Enschede","Netherlands","ENS",52.275833,6.889167
+"Valkenburg Naval Air Base","Valkenburg","Netherlands","LID",52.166099548300004,4.41794013977
+"Woensdrecht Air Base","Woensdrecht","Netherlands","WOE",51.4491,4.34203
+"Ålesund Airport","Alesund","Norway","AES",62.5625,6.119699954986572
+"Andøya Airport","Andoya","Norway","ANX",69.292503356934,16.144199371338
+"Alta Airport","Alta","Norway","ALF",69.976097106934,23.371700286865
+"Brønnøysund Airport","Bronnoysund","Norway","BNN",65.461097717285,12.217499732971
+"Bodø Airport","Bodo","Norway","BOO",67.26920318603516,14.365300178527832
+"Bergen Airport Flesland","Bergen","Norway","BGO",60.29339981,5.218140125
+"Båtsfjord Airport","Batsfjord","Norway","BJF",70.60050201416,29.691400527954
+"Kristiansand Airport","Kristiansand","Norway","KRS",58.204201,8.08537
+"Geilo Airport Dagali","Geilo","Norway","DLD",60.417301177978516,8.518349647521973
+"Bardufoss Airport","Bardufoss","Norway","BDU",69.055801391602,18.540399551392
+"Harstad/Narvik Airport Evenes","Harstad/Narvik","Norway","EVE",68.491302490234,16.678100585938
+"Leirin Airport","Fagernes","Norway","VDB",61.015598297119,9.2880601882935
+"Florø Airport","Floro","Norway","FRO",61.583599090576,5.0247201919556
+"Oslo Lufthavn","Oslo","Norway","OSL",60.121,11.0502
+"Haugesund Airport","Haugesund","Norway","HAU",59.34529876709,5.2083601951599
+"Hasvik Airport","Hasvik","Norway","HAA",70.486701965332,22.139699935913
+"Kristiansund Airport (Kvernberget)","Kristiansund","Norway","KSU",63.111801147461,7.824520111084
+"Kirkenes Airport (Høybuktmoen)","Kirkenes","Norway","KKN",69.725799560547,29.891300201416
+"Lista Airport","Farsund","Norway","FAN",58.0994987487793,6.626049995422363
+"Molde Airport","Molde","Norway","MOL",62.744701385498,7.2624998092651
+"Mosjøen Airport (Kjærstad)","Mosjoen","Norway","MJF",65.783996582031,13.214900016785
+"Banak Airport","Lakselv","Norway","LKL",70.068801879883,24.973499298096
+"Notodden Airport","Notodden","Norway","NTB",59.565701,9.21222
+"Ørland Airport","Orland","Norway","OLA",63.69889831542969,9.604000091552734
+"Røros Airport","Roros","Norway","RRS",62.578399658203,11.342300415039
+"Moss Airport Rygge","Rygge","Norway","RYG",59.378817,10.785439
+"Svalbard Airport Longyear","Svalbard","Norway","LYR",78.246101379395,15.465600013733
+"Skien Airport","Skien","Norway","SKE",59.185001373291016,9.566940307617188
+"Stord Airport","Stord","Norway","SRP",59.791900634765625,5.340849876403809
+"Sandnessjøen Airport (Stokka)","Sandnessjoen","Norway","SSJ",65.956802368164,12.468899726868
+"Tromsø Airport","Tromso","Norway","TOS",69.68329620361328,18.918899536132812
+"Sandefjord Airport Torp","Sandefjord","Norway","TRF",59.1866989136,10.258600235
+"Trondheim Airport Værnes","Trondheim","Norway","TRD",63.4578018,10.9239998
+"Stavanger Airport Sola","Stavanger","Norway","SVG",58.876701354,5.6377801895
+"Stokmarknes Skagen Airport","Stokmarknes","Norway","SKN",68.578826904297,15.033416748047
+"Hammerfest Airport","Hammerfest","Norway","HFT",70.679702758789,23.668600082397
+"Valan Airport","Honningsvag","Norway","HVG",71.009696960449,25.983600616455
+"Mehamn Airport","Mehamn","Norway","MEH",71.02970123291,27.826700210571
+"Vadsø Airport","Vadsø","Norway","VDS",70.065299987793,29.844699859619
+"Ørsta-Volda Airport Hovden","Orsta-Volda","Norway","HOV",62.180000305176,6.0741000175476
+"Narvik Framnes Airport","Narvik","Norway","NVK",68.436897277832,17.386699676514
+"Berlevåg Airport","Berlevag","Norway","BVG",70.871399,29.034201
+"Oslo Fornebu Airport","Oslo","Norway","FBU",59.89580154418945,10.617199897766113
+"Leknes Airport","Leknes","Norway","LKN",68.152496337891,13.609399795532
+"Namsos Høknesøra Airport","Namsos","Norway","OSY",64.472198486328,11.57859992981
+"Mo i Rana Airport Røssvoll","Mo i Rana","Norway","MQN",66.363899230957,14.301400184631
+"Rørvik Airport Ryum","Rørvik","Norway","RVK",64.838302612305,11.14610004425
+"Røst Airport","Røst","Norway","RET",67.527801513672,12.103300094604
+"Sandane Airport (Anda)","Sandane","Norway","SDN",61.830001831055,6.1058301925659
+"Sogndal Airport","Sogndal","Norway","SOG",61.156101,7.13778
+"Svolvær Helle Airport","Svolvær","Norway","SVJ",68.243301391602,14.669199943542
+"Sørkjosen Airport","Sorkjosen","Norway","SOJ",69.786796569824,20.959400177002
+"Vardø Airport Svartnes","Vardø","Norway","VAW",70.355400085449,31.044900894165
+"Værøy Heliport","Værøy","Norway","VRY",67.654555,12.727257
+"Stafsberg Airport","Hamar","Norway","HMR",60.81809997558594,11.067999839782715
+"Kautokeino Air Base","Kautokeino","Norway","QKX",69.04029846191406,23.034000396728516
+"Gdańsk Lech Wałęsa Airport","Gdansk","Poland","GDN",54.377601623535156,18.46619987487793
+"Kraków John Paul II International Airport","Krakow","Poland","KRK",50.077702,19.7848
+"Katowice International Airport","Katowice","Poland","KTW",50.4743,19.08
+"Poznań-Ławica Airport","Poznan","Poland","POZ",52.421001434299995,16.8262996674
+"Rzeszów-Jasionka Airport","Rzeszow","Poland","RZE",50.1100006104,22.0189990997
+"Szczecin-Goleniów ""Solidarność"" Airport","Szczecin","Poland","SZZ",53.584701538100006,14.902199745199999
+"Redzikowo Air Base","Slupsk","Poland","OSP",54.47890090942383,17.107500076293945
+"Warsaw Chopin Airport","Warsaw","Poland","WAW",52.1656990051,20.967100143399996
+"Copernicus Wrocław Airport","Wroclaw","Poland","WRO",51.1026992798,16.885799408
+"Zielona Góra-Babimost Airport","Zielona Gora","Poland","IEG",52.138500213600004,15.7986001968
+"Bydgoszcz Ignacy Jan Paderewski Airport","Bydgoszcz","Poland","BZG",53.096801757799994,17.9776992798
+"Łódź Władysław Reymont Airport","Lodz","Poland","LCJ",51.721900939899996,19.3980998993
+"Oksywie Military Air Base","Gdynia","Poland","QYD",54.57970047,18.51720047
+"Radom Airport","RADOM","Poland","RDO",51.3891983032,21.213300705
+"Modlin Airport","Warsaw","Poland","WMI",52.451099,20.6518
+"Lublin Airport","Lublin","Poland","LUZ",51.240278,22.713611
+"Olsztyn-Mazury Airport","Szczytno-Szymany","Poland","SZY",53.481899,20.9377
+"Biała Podlaska Airfield","Biała Podlaska","Poland","BXP",52.00078,23.1325278
+"Alverca Air Base","Alverca","Portugal","AVR",38.883301,-9.0301
+"Santa Maria Airport","Santa Maria (island)","Portugal","SMA",36.97140121459961,-25.17060089111328
+"Bragança Airport","Braganca","Portugal","BGC",41.8578,-6.70713
+"Beja Airport / Airbase","Beja (madeira)","Portugal","BYJ",38.078899,-7.9324
+"Braga Municipal Aerodrome","Braga","Portugal","BGZ",41.5871009827,-8.445139884949999
+"Cascais Airport","Cascais","Portugal","CAT",38.724998,-9.35523
+"Flores Airport","Flores","Portugal","FLW",39.455299377441406,-31.131399154663086
+"Faro Airport","Faro","Portugal","FAO",37.0144004822,-7.96590995789
+"Graciosa Airport","Graciosa Island","Portugal","GRW",39.092201232910156,-28.029800415039062
+"Horta Airport","Horta","Portugal","HOR",38.519901275634766,-28.715900421142578
+"Lajes Airport","Lajes (terceira Island)","Portugal","TER",38.761799,-27.090799
+"Monte Real Air Base","Monte Real","Portugal","QLR",39.828335,-8.8875
+"João Paulo II Airport","Ponta Delgada","Portugal","PDL",37.7411994934,-25.6979007721
+"Pico Airport","Pico","Portugal","PIX",38.554298,-28.441299
+"Portimão Airport","Portimao","Portugal","PRM",37.1493,-8.58396
+"Francisco de Sá Carneiro Airport","Porto","Portugal","OPO",41.2481002808,-8.68138980865
+"Porto Santo Airport","Porto Santo","Portugal","PXO",33.0733985901,-16.3500003815
+"Humberto Delgado Airport (Lisbon Portela Airport)","Lisbon","Portugal","LIS",38.7813,-9.13592
+"São Jorge Airport","Sao Jorge Island","Portugal","SJZ",38.66550064086914,-28.175800323486328
+"Vila Real Airport","Vila Real","Portugal","VRL",41.2743,-7.72047
+"Aerodromo Goncalves Lobato (Viseu Airport)","Viseu","Portugal","VSE",40.725498,-7.88899
+"Madeira Airport","Funchal","Portugal","FNC",32.697899,-16.7745
+"Corvo Airport","Corvo","Portugal","CVU",39.671501,-31.1136
+"Belgrade Nikola Tesla Airport","Belgrade","Serbia","BEG",44.8184013367,20.3090991974
+"Nis Airport","Nis","Serbia","INI",43.337299,21.853701
+"Priština International Airport","Pristina","Serbia","PRN",42.5728,21.035801
+"Batajnica Air Base","Batajnica","Serbia","BJY",44.935299,20.2575
+"Cenej Airport","Novi Sad","Serbia","QND",45.385799,19.839199
+"Arad International Airport","Arad","Romania","ARW",46.17660140991211,21.261999130249023
+"Bacău Airport","Bacau","Romania","BCM",46.52190017700195,26.91029930114746
+"Tautii Magheraus Airport","Baia Mare","Romania","BAY",47.65840148925781,23.469999313354492
+"Băneasa International Airport","Bucharest","Romania","BBU",44.50320053100586,26.102100372314453
+"Mihail Kogălniceanu International Airport","Constanta","Romania","CND",44.36220169067383,28.488300323486328
+"Cluj-Napoca International Airport","Cluj-napoca","Romania","CLJ",46.78519821166992,23.686199188232422
+"Caransebeş Airport","Caransebes","Romania","CSB",45.41999816894531,22.253299713134766
+"Craiova Airport","Craiova","Romania","CRA",44.31809997558594,23.888599395751953
+"Iaşi Airport","Iasi","Romania","IAS",47.17850112915039,27.6205997467041
+"Oradea International Airport","Oradea","Romania","OMR",47.025299072265625,21.90250015258789
+"Henri Coandă International Airport","Bucharest","Romania","OTP",44.5711111,26.085
+"Sibiu International Airport","Sibiu","Romania","SBZ",45.78559875488281,24.091299057006836
+"Satu Mare Airport","Satu Mare","Romania","SUJ",47.70330047607422,22.885700225830078
+"Suceava Stefan cel Mare Airport","Suceava","Romania","SCV",47.6875,26.35409927368164
+"Tulcea Airport","Tulcea","Romania","TCE",45.0625,28.71430015563965
+"Transilvania Târgu Mureş International Airport","Tirgu Mures","Romania","TGM",46.46770095825195,24.412500381469727
+"Timişoara Traian Vuia Airport","Timisoara","Romania","TSR",45.809898376464844,21.337900161743164
+"Ljubljana Jože Pučnik Airport","Ljubljana","Slovenia","LJU",46.223701,14.4576
+"Maribor Airport","Maribor","Slovenia","MBX",46.47990036010742,15.686100006103516
+"Portoroz Airport","Portoroz","Slovenia","POW",45.4734001159668,13.614999771118164
+"Fuerteventura Airport","Fuerteventura","Spain","FUE",28.452699661254883,-13.863800048828125
+"Hierro Airport","Hierro","Spain","VDE",27.814800262451172,-17.887100219726562
+"La Palma Airport","Santa Cruz De La Palma","Spain","SPC",28.626499,-17.7556
+"Gran Canaria Airport","Gran Canaria","Spain","LPA",27.931900024414062,-15.38659954071045
+"Lanzarote Airport","Arrecife","Spain","ACE",28.945499,-13.6052
+"Tenerife South Airport","Tenerife","Spain","TFS",28.044500351,-16.5725002289
+"Tenerife Norte Airport","Tenerife","Spain","TFN",28.4827003479,-16.3414993286
+"Melilla Airport","Melilla","Spain","MLN",35.279800415,-2.9562599659
+"Albacete-Los Llanos Airport","Albacete","Spain","ABC",38.9485015869,-1.8635200262099998
+"Alicante International Airport","Alicante","Spain","ALC",38.28219985961914,-0.5581560134887695
+"Almería International Airport","Almeria","Spain","LEI",36.84389877319336,-2.3701000213623047
+"Asturias Airport","Aviles","Spain","OVD",43.5635986328125,-6.0346198081970215
+"Córdoba Airport","Cordoba","Spain","ODB",37.84199905395508,-4.848879814147949
+"Bilbao Airport","Bilbao","Spain","BIO",43.30110168457031,-2.9106099605560303
+"Barcelona International Airport","Barcelona","Spain","BCN",41.2971,2.07846
+"Badajoz Airport","Badajoz","Spain","BJZ",38.891300201416016,-6.8213300704956055
+"A Coruña Airport","La Coruna","Spain","LCG",43.302101,-8.37726
+"Girona Airport","Gerona","Spain","GRO",41.901000977,2.7605500221
+"Federico Garcia Lorca Airport","Granada","Spain","GRX",37.18870162963867,-3.777359962463379
+"Ibiza Airport","Ibiza","Spain","IBZ",38.872898101800004,1.3731199502899998
+"Jerez Airport","Jerez","Spain","XRY",36.744598388671875,-6.060110092163086
+"San Javier Airport","Murcia","Spain","MJV",37.775001525878906,-0.8123890161514282
+"Adolfo Suárez Madrid–Barajas Airport","Madrid","Spain","MAD",40.471926,-3.56264
+"Málaga Airport","Malaga","Spain","AGP",36.67490005493164,-4.499110221862793
+"Menorca Airport","Menorca","Spain","MAH",39.86259841918945,4.218649864196777
+"Moron Air Base","Sevilla","Spain","OZP",37.17490005493164,-5.615940093994141
+"Pamplona Airport","Pamplona","Spain","PNA",42.77000045776367,-1.6463299989700317
+"Reus Air Base","Reus","Spain","REU",41.14739990234375,1.1671700477600098
+"Rota Naval Station Airport","Rota","Spain","ROZ",36.645198822,-6.34946012497
+"Salamanca Airport","Salamanca","Spain","SLM",40.95209884643555,-5.501989841461182
+"San Sebastian Airport","San Sebastian","Spain","EAS",43.35649871826172,-1.7906099557876587
+"Santiago de Compostela Airport","Santiago","Spain","SCQ",42.89630126953125,-8.415140151977539
+"Pirineus - la Seu d'Urgel Airport","Seo De Urgel","Spain","LEU",42.3386,1.40917
+"Torrejón Airport","Madrid","Spain","TOJ",40.496700286865234,-3.4458699226379395
+"Valencia Airport","Valencia","Spain","VLC",39.4893,-0.481625
+"Valladolid Airport","Valladolid","Spain","VLL",41.7061004639,-4.85194015503
+"Vitoria/Foronda Airport","Vitoria","Spain","VIT",42.8828010559082,-2.7244699001312256
+"Vigo Airport","Vigo","Spain","VGO",42.2318000793457,-8.62677001953125
+"Santander Airport","Santander","Spain","SDR",43.427101135253906,-3.82000994682312
+"Zaragoza Air Base","Zaragoza","Spain","ZAZ",41.66619873046875,-1.0415500402450562
+"Sevilla Airport","Sevilla","Spain","SVQ",37.417999267578125,-5.8931097984313965
+"Palma De Mallorca Airport","Palma de Mallorca","Spain","PMI",39.551700592,2.73881006241
+"La Gomera Airport","La Gomera","Spain","GMZ",28.029600143432617,-17.214599609375
+"Logroño-Agoncillo Airport","Logroño-Agoncillo","Spain","RJL",42.4609534888,-2.32223510742
+"Leon Airport","Leon","Spain","LEN",42.5890007019043,-5.65556001663208
+"Burgos Airport","Burgos","Spain","RGS",42.357601,-3.62076
+"Sabadell Airport","Sabadell","Spain","QSA",41.52090072631836,2.1050798892974854
+"Lleida-Alguaire Airport","Lleida","Spain","ILD",41.728185,0.535023
+"Huesca/Pirineos Airport","Huesca","Spain","HSK",42.0760993958,-0.316666990519
+"Ciudad Real Central Airport","Ciudad Real","Spain","CQM",38.8563888889,-3.97
+"Cuatro Vientos Airport","Madrid","Spain","ECV",40.370701,-3.78514
+"Castellón-Costa Azahar Airport","Castellón de la Plana","Spain","CDT",40.213889,0.073333
+"Teruel Airport","Teruel","Spain","TEV",40.403,-1.2183
+"Algeciras Heliport","Algeciras","Spain","AEI",36.12888,-5.441118
+"Región de Murcia International Airport","Murcia","Spain","RMU",37.803,-1.125
+"Ronneby Airport","Ronneby","Sweden","RNB",56.266700744629,15.265000343323
+"Gothenburg-Landvetter Airport","Gothenborg","Sweden","GOT",57.662799835205,12.279800415039
+"Jönköping Airport","Joenkoeping","Sweden","JKG",57.757598876953125,14.068699836730957
+"Lidköping-Hovby Airport","Lidkoping","Sweden","LDK",58.4655,13.1744
+"Gothenburg City Airport","Gothenborg","Sweden","GSE",57.7747,11.8704
+"Skövde Airport","Skovde","Sweden","KVB",58.45640182495117,13.972700119018555
+"Trollhättan-Vänersborg Airport","Trollhattan","Sweden","THN",58.31809997558594,12.345000267028809
+"Karlskoga Airport","Karlskoga","Sweden","KSK",59.34590148925781,14.49590015411377
+"Mora Airport","Mora","Sweden","MXX",60.957901,14.5114
+"Stockholm Skavsta Airport","Stockholm","Sweden","NYO",58.78860092163086,16.912200927734375
+"Kristianstad Airport","Kristianstad","Sweden","KID",55.92169952392578,14.08549976348877
+"Oskarshamn Airport","Oskarshamn","Sweden","OSK",57.350498,16.497999
+"Kalmar Airport","Kalkmar","Sweden","KLR",56.68550109863281,16.287599563598633
+"Malmö Sturup Airport","Malmoe","Sweden","MMX",55.536305364,13.376197814900001
+"Halmstad Airport","Halmstad","Sweden","HAD",56.69110107421875,12.820199966430664
+"Växjö Kronoberg Airport","Vaxjo","Sweden","VXO",56.929100036621094,14.727999687194824
+"Sveg Airport","Sveg","Sweden","EVG",62.04779815673828,14.422900199890137
+"Gällivare Airport","Gallivare","Sweden","GEV",67.13240051269531,20.814599990844727
+"Hudiksvall Airport","Hudiksvall","Sweden","HUV",61.7681007385,17.0806999207
+"Kramfors Sollefteå Airport","Kramfors","Sweden","KRF",63.04859924316406,17.76889991760254
+"Lycksele Airport","Lycksele","Sweden","LYC",64.54830169677734,18.71619987487793
+"Sundsvall-Härnösand Airport","Sundsvall","Sweden","SDL",62.528099060058594,17.443899154663086
+"Örnsköldsvik Airport","Ornskoldsvik","Sweden","OER",63.40829849243164,18.989999771118164
+"Kiruna Airport","Kiruna","Sweden","KRN",67.821998596191,20.336799621582
+"Skellefteå Airport","Skelleftea","Sweden","SFT",64.62480163574219,21.076900482177734
+"Umeå Airport","Umea","Sweden","UME",63.791801452637,20.282800674438
+"Vilhelmina Airport","Vilhelmina","Sweden","VHM",64.5791015625,16.833599090576172
+"Arvidsjaur Airport","Arvidsjaur","Sweden","AJR",65.59030151367188,19.28190040588379
+"Örebro Airport","Orebro","Sweden","ORB",59.22370147705078,15.038000106811523
+"Stockholm Västerås Airport","Vasteras","Sweden","VST",59.58940124511719,16.63360023498535
+"Luleå Airport","Lulea","Sweden","LLA",65.543800354004,22.121999740601
+"Stockholm-Arlanda Airport","Stockholm","Sweden","ARN",59.651901245117,17.918600082397
+"Stockholm-Bromma Airport","Stockholm","Sweden","BMA",59.354400634765625,17.941699981689453
+"Borlange Airport","Borlange","Sweden","BLE",60.422000885009766,15.515199661254883
+"Hultsfred Airport","Hultsfred","Sweden","HLF",57.525799,15.8233
+"Gävle Sandviken Airport","Gavle","Sweden","GVX",60.593299865722656,16.951400756835938
+"Linköping City Airport","Linkoeping","Sweden","LPI",58.4062004089,15.680500030500001
+"Norrköping Airport","Norrkoeping","Sweden","NRK",58.586299896240234,16.250600814819336
+"Eskilstuna Airport","Eskilstuna","Sweden","EKT",59.35110092163086,16.70840072631836
+"Visby Airport","Visby","Sweden","VBY",57.662799835205,18.346200942993
+"Åre Östersund Airport","Östersund","Sweden","OSD",63.194400787354,14.50030040741
+"Hagfors Airport","Hagfors","Sweden","HFS",60.02009963989258,13.578900337219238
+"Karlstad Airport","Karlstad","Sweden","KSD",59.444698333699996,13.337400436400001
+"Torsby Airport","Torsby","Sweden","TYF",60.1576004028,12.991299629199998
+"Ängelholm-Helsingborg Airport","Ängelholm","Sweden","AGH",56.29610061645508,12.847100257873535
+"Storuman Airport","Mohed","Sweden","SQO",64.96089935302734,17.69659996032715
+"Hemavan Airport","Hemavan","Sweden","HMV",65.80609893798828,15.082799911499023
+"Pajala Airport","Pajala","Sweden","PJA",67.24559783935547,23.068899154663086
+"Söderhamn Airport","Soderhamn","Sweden","SOO",61.26150131225586,17.09910011291504
+"Geneva Cointrin International Airport","Geneva","Switzerland","GVA",46.23809814453125,6.108950138092041
+"Sion Airport","Sion","Switzerland","SIR",46.219600677500004,7.326759815220001
+"Emmen Air Base","Emmen","Switzerland","EML",47.092444,8.305184
+"Lugano Airport","Lugano","Switzerland","LUG",46.00429916379999,8.9105796814
+"Bern Belp Airport","Bern","Switzerland","BRN",46.914100647,7.497149944309999
+"Grenchen Airport","Grenchen","Switzerland","ZHI",47.181599,7.41719
+"Zürich Airport","Zurich","Switzerland","ZRH",47.464699,8.54917
+"St Gallen Altenrhein Airport","Altenrhein","Switzerland","ACH",47.4850006104,9.560770034789998
+"Samedan Airport","Samedan","Switzerland","SMV",46.53409957885742,9.884110450744629
+"Lausanne-Blécherette Airport","Lausanne","Switzerland","QLS",46.54529953,6.61667013168
+"Locarno Airport","Locarno","Switzerland","ZJI",46.160800933800004,8.87860965729
+"Neuchatel Airport","Neuchatel","Switzerland","QNC",46.9575004578,6.86471986771
+"Interlaken Air Base","Interlaken","Switzerland","ZIN",46.6766014,7.8790798
+"Buochs Airport","Buochs","Switzerland","BXO",46.974444,8.396944
+"Belfast International Airport","Belfast","United Kingdom","BFS",54.6575012207,-6.2158298492399995
+"St Angelo Airport","Enniskillen","United Kingdom","ENK",54.39889907836914,-7.651669979095459
+"George Best Belfast City Airport","Belfast","United Kingdom","BHD",54.618099212646484,-5.872499942779541
+"City of Derry Airport","Londonderry","United Kingdom","LDY",55.04280090332031,-7.161109924316406
+"Birmingham International Airport","Birmingham","United Kingdom","BHX",52.453899383499994,-1.74802994728
+"Coventry Airport","Coventry","United Kingdom","CVT",52.3697013855,-1.4797199964499999
+"Gloucestershire Airport","Golouchestershire","United Kingdom","GLO",51.89419937133789,-2.167220115661621
+"Cotswold Airport","Pailton","United Kingdom","GBA",51.668095,-2.05694
+"Manchester Airport","Manchester","United Kingdom","MAN",53.35369873046875,-2.2749500274658203
+"Newquay Cornwall Airport","Newquai","United Kingdom","NQY",50.44060134887695,-4.995409965515137
+"RAF Lyneham","Lyneham","United Kingdom","LYE",51.5051,-1.99343
+"RNAS Yeovilton","Yeovilton","United Kingdom","YEO",51.0093994140625,-2.638819932937622
+"Haverfordwest Airport","Haverfordwest","United Kingdom","HAW",51.833099365234375,-4.9611101150512695
+"Cardiff International Airport","Cardiff","United Kingdom","CWL",51.39670181274414,-3.343329906463623
+"Swansea Airport","Swansea","United Kingdom","SWS",51.60530090332031,-4.0678300857543945
+"Bristol Airport","Bristol","United Kingdom","BRS",51.382702,-2.71909
+"Liverpool John Lennon Airport","Liverpool","United Kingdom","LPL",53.33359909057617,-2.849720001220703
+"London Luton Airport","London","United Kingdom","LTN",51.874698638916016,-0.36833301186561584
+"Plymouth City Airport","Plymouth","United Kingdom","PLH",50.422798,-4.10583
+"Bournemouth Airport","Bournemouth","United Kingdom","BOH",50.779998779296875,-1.8424999713897705
+"Southampton Airport","Southampton","United Kingdom","SOU",50.95029830932617,-1.3567999601364136
+"Lasham Airport","Lasham","United Kingdom","QLA",51.187198638916016,-1.0334999561309814
+"Shoreham Airport","Shoreham By Sea","United Kingdom","ESH",50.835602,-0.297222
+"London Biggin Hill Airport","Biggin Hill","United Kingdom","BQH",51.33079910279999,0.0324999988079
+"London Gatwick Airport","London","United Kingdom","LGW",51.148102,-0.190278
+"London City Airport","London","United Kingdom","LCY",51.505299,0.055278
+"Farnborough Airport","Farnborough","United Kingdom","FAB",51.2757987976,-0.776332974434
+"Blackbushe Airport","Blackbushe","United Kingdom","BBS",51.32389831542969,-0.8475000262260437
+"London Heathrow Airport","London","United Kingdom","LHR",51.4706,-0.461941
+"Southend Airport","Southend","United Kingdom","SEN",51.5713996887207,0.6955559849739075
+"Lydd Airport","Lydd","United Kingdom","LYX",50.95610046386719,0.9391670227050781
+"Kent International Airport","Manston","United Kingdom","MSE",51.342201,1.34611
+"Carlisle Airport","Carlisle","United Kingdom","CAX",54.9375,-2.8091700077056885
+"Blackpool International Airport","Blackpool","United Kingdom","BLK",53.77170181274414,-3.0286099910736084
+"Humberside Airport","Humberside","United Kingdom","HUY",53.57440185546875,-0.350832998752594
+"Barrow Walney Island Airport","Barrow Island","United Kingdom","BWF",54.1286111,-3.2675
+"Leeds Bradford Airport","Leeds","United Kingdom","LBA",53.86589813232422,-1.6605700254440308
+"Warton Airport","Warton","United Kingdom","WRT",53.745098,-2.88306
+"Hawarden Airport","Hawarden","United Kingdom","CEG",53.1781005859375,-2.9777801036834717
+"Newcastle Airport","Newcastle","United Kingdom","NCL",55.037498474121094,-1.6916699409484863
+"Durham Tees Valley Airport","Teesside","United Kingdom","MME",54.50920104980469,-1.4294099807739258
+"East Midlands Airport","East Midlands","United Kingdom","EMA",52.8311004639,-1.32806003094
+"Kirkwall Airport","Kirkwall","United Kingdom","KOI",58.957801818847656,-2.9049999713897705
+"Sumburgh Airport","Sumburgh","United Kingdom","LSI",59.87889862060547,-1.2955600023269653
+"Wick Airport","Wick","United Kingdom","WIC",58.458900451660156,-3.09306001663208
+"Aberdeen Dyce Airport","Aberdeen","United Kingdom","ABZ",57.201900482177734,-2.197779893875122
+"Inverness Airport","Inverness","United Kingdom","INV",57.54249954223633,-4.047500133514404
+"Glasgow International Airport","Glasgow","United Kingdom","GLA",55.8718986511,-4.43306016922
+"Edinburgh Airport","Edinburgh","United Kingdom","EDI",55.95000076293945,-3.372499942779541
+"Islay Airport","Islay","United Kingdom","ILY",55.68190002441406,-6.256669998168945
+"Glasgow Prestwick Airport","Prestwick","United Kingdom","PIK",55.5093994140625,-4.586669921875
+"Benbecula Airport","Benbecula","United Kingdom","BEB",57.48109817504883,-7.3627800941467285
+"Scatsta Airport","Scatsta","United Kingdom","SCS",60.43280029296875,-1.2961100339889526
+"Dundee Airport","Dundee","United Kingdom","DND",56.45249938964844,-3.025830030441284
+"Stornoway Airport","Stornoway","United Kingdom","SYY",58.215599060058594,-6.331110000610352
+"Tiree Airport","Tiree","United Kingdom","TRE",56.49919891357422,-6.869170188903809
+"RAF Leuchars","Leuchars","United Kingdom","ADX",56.37289810180664,-2.8684399127960205
+"RAF Lossiemouth","Lossiemouth","United Kingdom","LMO",57.7052001953125,-3.339169979095459
+"Cambridge Airport","Cambridge","United Kingdom","CBG",52.205002,0.175
+"Norwich International Airport","Norwich","United Kingdom","NWI",52.6758003235,1.28278005123
+"London Stansted Airport","London","United Kingdom","STN",51.8849983215,0.234999999404
+"Exeter International Airport","Exeter","United Kingdom","EXT",50.73440170288086,-3.4138898849487305
+"Bristol Filton Airport","Bristol","United Kingdom","FZO",51.5194015503,-2.59083008766
+"Oxford (Kidlington) Airport","Oxford","United Kingdom","OXF",51.8368988037,-1.32000005245
+"RAF Benson","Benson","United Kingdom","BEX",51.616401672399995,-1.09582996368
+"RAF Lakenheath","Lakenheath","United Kingdom","LKZ",52.409301757799994,0.56099998951
+"RAF Mildenhall","Mildenhall","United Kingdom","MHZ",52.361900329589844,0.48640599846839905
+"RAF Wyton","Wyton","United Kingdom","QUY",52.3572006226,-0.107832998037
+"RAF Fairford","Fairford","United Kingdom","FFD",51.6822013855,-1.7900300025900002
+"RAF Brize Norton","Brize Norton","United Kingdom","BZZ",51.75,-1.58362
+"RAF Odiham","Odiham","United Kingdom","ODH",51.2341003418,-0.94282501936
+"RAF Northolt","Northolt","United Kingdom","NHT",51.553001403799996,-0.418166995049
+"RAF Coningsby","Coningsby","United Kingdom","QCY",53.0929985046,-0.166014000773
+"RAF Honington","Honington","United Kingdom","BEQ",52.34260177612305,0.7729390263557434
+"RAF Scampton","Scampton","United Kingdom","SQZ",53.307800293,-0.550832986832
+"RAF Linton-On-Ouse","Linton-on-ouse","United Kingdom","HRT",54.0489006042,-1.2527500391
+"RAF Waddington","Waddington","United Kingdom","WTN",53.1661987305,-0.523810982704
+"RAF Marham","Marham","United Kingdom","KNF",52.648395,0.550692
+"St. Mary's Airport","ST MARY'S","United Kingdom","ISC",49.913299560546875,-6.291669845581055
+"Nottingham Airport","Nottingham","United Kingdom","NQT",52.91999816894531,-1.0791699886322021
+"Campbeltown Airport","Campbeltown","United Kingdom","CAL",55.437198638916016,-5.686389923095703
+"Eday Airport","Eday","United Kingdom","EOI",59.19060134887695,-2.7722198963165283
+"Fair Isle Airport","Fair Isle","United Kingdom","FIE",59.53580093383789,-1.628059983253479
+"North Ronaldsay Airport","North Ronaldsay","United Kingdom","NRL",59.3675003052,-2.43443989754
+"Papa Westray Airport","Papa Westray","United Kingdom","PPW",59.351699829100006,-2.9002799987800003
+"Stronsay Airport","Stronsay","United Kingdom","SOY",59.1553001404,-2.64139008522
+"Sanday Airport","Sanday","United Kingdom","NDY",59.250301361083984,-2.576669931411743
+"Lerwick / Tingwall Airport","Lerwick","United Kingdom","LWK",60.192199707,-1.24361002445
+"Westray Airport","Westray","United Kingdom","WRY",59.3502998352,-2.95000004768
+"Land's End Airport","Land's End","United Kingdom","LEQ",50.102798,-5.67056
+"Penzance Heliport","Penzance","United Kingdom","PZE",50.128101,-5.51845
+"Anglesey Airport","Angelsey","United Kingdom","VLY",53.2481002808,-4.53533983231
+"Barra Airport","Barra","United Kingdom","BRR",57.0228,-7.44306
+"Outer Skerries Airport","Outer Skerries","United Kingdom","OUK",60.4252,-0.75
+"Unst Airport","Unst","United Kingdom","UNT",60.74720001220703,-0.8538500070571899
+"Oban Airport","North Connel","United Kingdom","OBN",56.4635009765625,-5.399670124053955
+"Lympne Airport","Lympne","United Kingdom","LYM",51.08,1.013
+"Colonsay Airstrip","Colonsay","United Kingdom","CSA",56.0574989319,-6.243060112
+"Wycombe Air Park","Wycombe","United Kingdom","HYC",51.6116981506,-0.8083329796790001
+"Bembridge Airport","Bembridge","United Kingdom","BBP",50.6781005859,-1.10943996906
+"Perth/Scone Airport","Perth","United Kingdom","PSL",56.43920135498047,-3.372220039367676
+"Duxford Aerodrome","Duxford","United Kingdom","QFO",52.090801,0.131944
+"Rochester Airport","Rochester","United Kingdom","RCS",51.351898193359375,0.5033329725265503
+"Redhill Aerodrome","Redhill","United Kingdom","KRH",51.2136001587,-0.138611003757
+"Chichester/Goodwood Airport","Goodwood","United Kingdom","QUG",50.85940170288086,-0.7591670155525208
+"RAF Kinloss","Kinloss","United Kingdom","FSS",57.6493988037,-3.56064009666
+"St. Helena Airport","Longwood","United Kingdom","HLE",-15.957725,-5.645943
+"Boryspil International Airport","Kiev","Ukraine","KBP",50.345001220703125,30.894699096679688
+"Donetsk International Airport","Donetsk","Ukraine","DOK",48.07360076904297,37.73970031738281
+"Dnipropetrovsk International Airport","Dnepropetrovsk","Ukraine","DNK",48.357200622558594,35.10060119628906
+"Simferopol International Airport","Simferopol","Ukraine","SIP",45.05220031738281,33.975101470947266
+"Kiev Zhuliany International Airport","Kiev","Ukraine","IEV",50.40194,30.45194
+"Lviv International Airport","Lvov","Ukraine","LWO",49.8125,23.956100463867188
+"Odessa International Airport","Odessa","Ukraine","ODS",46.42679977416992,30.67650032043457
+"Mariupol International Airport","Mariupol International","Ukraine","MPW",47.07609939575195,37.44960021972656
+"Luhansk International Airport","Lugansk","Ukraine","VSG",48.4174003601,39.3740997314
+"Zaporizhzhia International Airport","Zaporozhye","Ukraine","OZH",47.867000579833984,35.31570053100586
+"Kryvyi Rih International Airport","Krivoy Rog","Ukraine","KWG",48.04330062866211,33.209999084472656
+"Kharkiv International Airport","Kharkov","Ukraine","HRK",49.924800872802734,36.290000915527344
+"Ivano-Frankivsk International Airport","Ivano-Frankivsk","Ukraine","IFO",48.88420104980469,24.686100006103516
+"Chernivtsi International Airport","Chernovtsk","Ukraine","CWC",48.259300231933594,25.98080062866211
+"Rivne International Airport","Rivne","Ukraine","RWN",50.60710144042969,26.141599655151367
+"Uzhhorod International Airport","Uzhgorod","Ukraine","UDJ",48.634300231933594,22.263399124145508
+"Lutsk Airport","Lutsk","Ukraine","UCK",50.678404,25.487165
+"Chernihiv Shestovitsa Airport","Chernigov","Ukraine","CEJ",51.4021987915,31.1583003998
+"Cherkasy International Airport","Cherkassy","Ukraine","CKC",49.41559982299805,31.99530029296875
+"Mykolaiv International Airport","Nikolayev","Ukraine","NLV",47.057899475097656,31.9197998046875
+"Kherson International Airport","Kherson","Ukraine","KHE",46.6758,32.506401
+"Kirovograd Airport","Kirovograd","Ukraine","KGO",48.54280090332031,32.28499984741211
+"Belbek Airport","Sevastopol","Ukraine","UKS",44.688999176,33.570999145500004
+"Kerch Airport","Kerch","Ukraine","KHC",45.372501373291016,36.40140151977539
+"Gostomel Airport","Kiev","Ukraine","GML",50.60350036621094,30.1919002532959
+"Vinnytsia/Gavyryshivka Airport","Vinnitsa","Ukraine","VIN",49.242531,28.613778
+"Suprunovka Airport","Poltava","Ukraine","PLV",49.568599700927734,34.39720153808594
+"Khmelnytskyi Airport","Khmeinitskiy","Ukraine","HMJ",49.359699,26.933399
+"Zhytomyr Airport","Zhytomyr","Ukraine","ZTR",50.270556,28.738611
+"Kramatorsk Airport","Kramatorsk","Ukraine","KRQ",48.70560073852539,37.62889862060547
+"Berdyansk Airport","Berdyansk","Ukraine","ERD",46.814998626708984,36.75809860229492
