@@ -28,7 +28,7 @@
           <div class="form-group">
             <label for="" class="form-label">Airport B</label>
             <simple-typeahead
-              id="typeahead_id"
+              id="airportB"
               class="form-input"
               placeholder="Start writing..."
               :items="items"
