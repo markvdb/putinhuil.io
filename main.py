@@ -1,4 +1,5 @@
 from fastapi import FastAPI, Query
+from fastapi.middleware.cors import CORSMiddleware
 from math import atan2, cos, pi, sin, sqrt
 from typing import Optional
 import sqlite3
@@ -88,6 +89,13 @@ app = FastAPI(
 	version = "0.0.1"
 )
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/flight/")
 async def flight(
