@@ -44,14 +44,10 @@
           <!-- <button @click="calculate" class="btn bg-black form-button">calculate</button> -->
         </div>
         <div class="calculate-switch">
-          <div class="calculate-radio">
-            <div class="radio-group">
-              <input class="calculate-radio-input" checked type="radio" id="one" value="one" v-model="way" />
-              <label class="calculate-radio-label" for="one">One way</label>
-            </div>
-            <div class="radio-group">
-              <input class="calculate-radio-input" type="radio" id="two" value="two" v-model="way" />
-              <label class="calculate-radio-label" for="two">With return</label>
+          <div class="calculate-checkbox">
+            <div class="checkbox-group">
+              <input class="calculate-checkbox-input" checked type="checkbox" id="return" v-model="checked" />
+              <label class="calculate-checkbox-label" for="return">With return</label>
             </div>
           </div>
           <div class="calculate-result">
@@ -76,7 +72,7 @@ export default {
   },
   data() {
     return {
-      way: 'one',
+      checked: true,
       iata1: '',
       iata2: '',
       jsn: '',
@@ -161,7 +157,7 @@ export default {
       line-height: 1;
     }
   }
-  .calculate-radio {
+  .calculate-checkbox {
     &-input {
       margin-left: 0;
       margin-right: 5px;
@@ -171,7 +167,7 @@ export default {
       line-height: 1.45;
     }
   }
-  .radio-group {
+  .checkbox-group {
     &:first-child {
       margin-bottom: 10px;
     }
