@@ -93,9 +93,7 @@ export default {
       if (this.iata1 && this.iata2) {
         const url = API_URL + '?iata1=' + this.iata1 + '&iata2=' + this.iata2;
         this.jsn = await (await fetch(url)).json();
-        console.log(this.jsn)
-        //console.log('json is... '+ json);
-        this.moneytorussia = 13;
+        this.moneytorussia = this.jsn.message;
       }
     },
     setIata1(item) {
