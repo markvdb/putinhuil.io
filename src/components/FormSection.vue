@@ -17,7 +17,7 @@
               :items="items"
               :minInputLength="1"
               :itemProjection="itemProjectionFunction"
-              @selectItem="selectItemEventHandler"
+              @selectItem="calculate"
               @onInput="onInputEventHandler"
               @onFocus="onFocusEventHandler"
               @onBlur="onBlurEventHandler"
@@ -34,14 +34,14 @@
               :items="items"
               :minInputLength="1"
               :itemProjection="itemProjectionFunction"
-              @selectItem="selectItemEventHandler"
+              @selectItem="calculate"
               @onInput="onInputEventHandler"
               @onFocus="onFocusEventHandler"
               @onBlur="onBlurEventHandler"
             >
             </simple-typeahead>
           </div>
-          <button @click="calculate" class="btn bg-black form-button">calculate</button>
+          <!-- <button @click="calculate" class="btn bg-black form-button">calculate</button> -->
         </div>
         <div class="calculate-switch">
           <div class="calculate-radio">
