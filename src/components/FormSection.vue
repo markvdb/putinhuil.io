@@ -7,11 +7,11 @@
         </p>
         <div class="calculate-form">
           <div class="form-group">
-            <label for="" class="form-label">Airport A</label>
+            <label for="" class="form-label">from airport:</label>
             <simple-typeahead
               id="iata1"
               class="form-input"
-              placeholder="Start writing..."
+              placeholder="Type here..."
               :items="items"
               :minInputLength="1"
               :itemProjection="itemProjectionFunction"
@@ -24,11 +24,11 @@
           </simple-typeahead>
           </div>
           <div class="form-group">
-            <label for="" class="form-label">Airport B</label>
+            <label for="" class="form-label">to airport:</label>
             <simple-typeahead
               id="iata2"
               class="form-input"
-              placeholder="Start writing..."
+              placeholder="Type here..."
               :items="items"
               :minInputLength="1"
               :itemProjection="itemProjectionFunction"
@@ -85,7 +85,6 @@ export default {
     async calculate() {
       if (this.iata1 && this.iata2) {
         const url = API_URL + '?iata1=' + this.iata1 + '&iata2=' + this.iata2+ '&ret=' + this.checked;
-        console.log('this.checked is ... '+this.checked);
         this.jsn = await (await fetch(url)).json();
         this.moneytorussia = this.jsn.message;
       }
