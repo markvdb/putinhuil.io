@@ -85,8 +85,9 @@ export default {
     }
   },
   methods: {
-    calculate() {
+    calculate(item) {
       //change sum for both options (one/two ways)
+      console.log('item is' + item.iata);
       console.log('calculate sum');
       // this.resultOne = x;
       // this.resultTwo = x;
