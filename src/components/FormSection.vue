@@ -22,12 +22,13 @@
               @onFocus="onFocusEventHandler"
               @onBlur="onBlurEventHandler"
             >
+            <template #list-item-text="slot"><span v-html="slot.boldMatchText(slot.itemProjection(slot.item))"></span></template>
           </simple-typeahead>
           </div>
           <div class="form-group">
             <label for="" class="form-label">Airport B</label>
             <simple-typeahead
-              id="airportB"
+              id="typeahead_id"
               class="form-input"
               placeholder="Start writing..."
               :items="items"
@@ -38,7 +39,7 @@
               @onFocus="onFocusEventHandler"
               @onBlur="onBlurEventHandler"
             >
-          </simple-typeahead>
+            </simple-typeahead>
           </div>
           <button @click="calculate" class="btn bg-black form-button">calculate</button>
         </div>
@@ -70,7 +71,7 @@ import SimpleTypeahead from 'vue3-simple-typeahead'
 
 export default {
   name: 'FormSection',
-  components: {
+  components: { 
     SimpleTypeahead
   },
   data() {
@@ -78,7 +79,20 @@ export default {
       way: 'one',
       resultOne: 1.00,
       resultTwo: 2.00,
-      items: ['One','Two','Three']
+      items: [
+        {
+          label: '1',
+          name: 'one'
+        },
+        {
+          label: '2',
+          name: 'two'
+        },
+        {
+          label: '3',
+          name: 'three'
+        }
+      ]
     }
   },
   methods: {
@@ -87,6 +101,9 @@ export default {
       console.log('calculate sum');
       // this.resultOne = x;
       // this.resultTwo = x;
+    },
+    itemProjectionFunction(item) {
+      return item.name + ' - ' + item.label;
     }
   }
 }
@@ -113,7 +130,7 @@ export default {
     }
     &-input {
       .simple-typeahead-input {
-        max-width: 330px;
+        max-width: 100%;
         width: 100%;
         padding: 8px 5px;
         font-size: 16px;
