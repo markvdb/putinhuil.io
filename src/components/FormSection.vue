@@ -3,9 +3,7 @@
     <div class="container">
       <div class="box">
         <p class="text form-title">
-          When I take a European flight, how many euros end up in the pockets of Putin and his cronies? 
-          <br>
-          Putinhuil.io tries to answer that question for you. 
+          When I fly in Europe, how many € end up in Putin's pockets? Find the answer here. 
         </p>
         <div class="calculate-form">
           <div class="form-group">
@@ -46,13 +44,13 @@
         <div class="calculate-switch">
           <div class="calculate-checkbox">
             <div class="checkbox-group">
-              <input class="calculate-checkbox-input" checked type="checkbox" id="return" v-model="checked" />
-              <label class="calculate-checkbox-label" for="return">With return</label>
+              <input class="calculate-checkbox-input" checked type="checkbox" id="return" v-model="checked" @change="calculate($event)" />
+              <label class="calculate-checkbox-label" for="return">return flight</label>
             </div>
           </div>
           <div class="calculate-result">
-            Earned:
-            <span class="calculate-result-value"> {{ moneytorussia }}</span>
+            to Putin:
+            <span class="calculate-result-value"> {{ moneytorussia }}€</span>
           </div>
         </div>
       </div>
@@ -85,9 +83,9 @@ export default {
   },
   methods: {
     async calculate() {
-      console.log('calculating money to Russia...');
       if (this.iata1 && this.iata2) {
-        const url = API_URL + '?iata1=' + this.iata1 + '&iata2=' + this.iata2;
+        const url = API_URL + '?iata1=' + this.iata1 + '&iata2=' + this.iata2+ '&ret=' + this.checked;
+        console.log('this.checked is ... '+this.checked);
         this.jsn = await (await fetch(url)).json();
         this.moneytorussia = this.jsn.message;
       }
