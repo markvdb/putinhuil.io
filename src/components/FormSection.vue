@@ -57,27 +57,21 @@ export default {
     }
   },
   watch: {
-    // whenever iata1 changes, this function will run
     iata1: {
       handler(newValue) {
-        console.log('tralala', newValue);
+        console.log(newValue);
         this.calculate();
       }, deep: true
     },
     iata2: {
       handler(newValue) {
-        console.log('tralala', newValue);
+        console.log(newValue);
         this.calculate();
       }, deep: true
     }
   },
   methods: {
     async calculate() {
-      console.log(event.target.value + ' is event.target.value.');
-      console.log(this.iata1 + ' is this.iata1.');
-      console.log(this.iata1.iata + ' is this.iata1.iata.');
-      console.log(this.iata2 + ' is this.iata2.');
-      console.log(this.iata2.iata + ' is this.iata2.iata.');
       if (this.iata1.iata && this.iata2.iata) {
         const url = API_URL + '?iata1=' + this.iata1.iata + '&iata2=' + this.iata2.iata + '&ret=' + this.checked;
         this.jsn = await (await fetch(url)).json();
