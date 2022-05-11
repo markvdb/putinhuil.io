@@ -8,11 +8,11 @@
         <div class="calculate-form">
           <div class="form-group">
             <label for="iata1" class="form-label">from airport:</label>
-            <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" placeholder="Type here..." @input="calculate($event)" />
+            <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" placeholder="Type here..." @input="calculate()" />
           </div>
           <div class="form-group">
             <label for="iata2" class="form-label">to airport:</label>
-            <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" placeholder="Type here..." @input="calculate($event)" />
+            <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" placeholder="Type here..." @input="calculate()" />
           </div>
         </div>
         <div class="calculate-switch">
@@ -56,9 +56,24 @@ export default {
       ]
     }
   },
+  watch: {
+    // whenever iata1 changes, this function will run
+    iata1: {
+      handler(newValue) {
+        console.log('tralala', newValue);
+        this.calculate();
+      }, deep: true
+    },
+    iata2: {
+      handler(newValue) {
+        console.log('tralala', newValue);
+        this.calculate();
+      }, deep: true
+    }
+  },
   methods: {
-    async calculate(event) {
-      console.log(event.target.value+ ' is event.target.value.');
+    async calculate() {
+      console.log(event.target.value + ' is event.target.value.');
       console.log(this.iata1 + ' is this.iata1.');
       console.log(this.iata1.iata + ' is this.iata1.iata.');
       console.log(this.iata2 + ' is this.iata2.');
