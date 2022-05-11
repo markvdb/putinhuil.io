@@ -3,16 +3,16 @@
     <div class="container">
       <div class="box">
         <p class="text form-title">
-          When I fly, how many € end up in Putin's pockets? Find the answer here. 
+          How much do I pay Putin when I fly?
         </p>
         <div class="calculate-form">
           <div class="form-group">
-            <label for="iata1" class="form-label">from airport:</label>
-            <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" placeholder="Type here..." @input="calculate()" />
+            <label for="iata1" class="form-label">from:</label>
+            <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" placeholder="Type airport here..." @input="calculate()" />
           </div>
           <div class="form-group">
-            <label for="iata2" class="form-label">to airport:</label>
-            <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" placeholder="Type here..." @input="calculate()" />
+            <label for="iata2" class="form-label">to:</label>
+            <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" placeholder="Type airport here..." @input="calculate()" />
           </div>
         </div>
         <div class="calculate-switch">
@@ -23,8 +23,7 @@
             </div>
           </div>
           <div class="calculate-result">
-            to Putin:
-            <span class="calculate-result-value"> {{ moneytorussia }}€</span>
+            <span class="calculate-result-value"> {{ moneytorussia }}€ to Putin</span>
           </div>
         </div>
       </div>
@@ -48,7 +47,7 @@ export default {
       filteredAirports2: null,
       iata1: null,
       iata2: null,
-      jsn: '',
+      jsn: null,
       moneytorussia: 0,
       returnflight: 1,
       items: [
@@ -72,10 +71,15 @@ export default {
   },
   methods: {
     async calculate() {
-      if (this.iata1.iata && this.iata2.iata) {
-        const url = API_URL + '?iata1=' + this.iata1.iata + '&iata2=' + this.iata2.iata + '&ret=' + this.checked;
-        this.jsn = await (await fetch(url)).json();
-        this.moneytorussia = this.jsn.message;
+      try {
+        if (this.iata1.iata && this.iata2.iata) {
+          const url = API_URL + '?iata1=' + this.iata1.iata + '&iata2=' + this.iata2.iata + '&ret=' + this.checked;
+          this.jsn = await (await fetch(url)).json();
+          this.moneytorussia = this.jsn.message;
+        }
+      }
+      catch (TypeError)	{
+        console.log('');
       }
     },
     searchAirport1(event) {
@@ -93,14 +97,6 @@ export default {
         }
       }
       return filteredItems;
-    },
-    setIata1() {
-      //this.iata1 = item.iata;
-      this.calculate();
-    },
-    setIata2() {
-      //this.iata2 = item.iata;
-      this.calculate();
     },
     itemProjectionFunction(item) {
       return item.airport + ' (' + item.iata + ')';
