@@ -20,13 +20,12 @@ export default {
   .header-wrap {
     border-bottom: 2px solid $yellow;
     background: #fff;
-    margin-bottom: 40px;
   }
   .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 80px;
+    height: 70px;
 
     &-name {
       font-size: 30px;

@@ -1,30 +1,36 @@
 <template>
-  <section class="section">
+  <section class="section bg">
     <div class="container">
-      <div class="box">
-        <p class="text form-title">
+      <div class="box border">
+        <h1 class="title">
           What does Putin earn on a flight?
-        </p>
+        </h1>
         <div class="calculate-form">
           <div class="form-group">
-            <label for="iata1" class="form-label">from</label>
-            <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" placeholder="Type airport here..." @input="calculate()" />
+            <label for="iata1" class="form-label icon icon-plane"><icon-plane></icon-plane></label>
+            <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" id="iata1" class="form-input" placeholder="From where" @input="calculate()" />
+          </div>
+          <div class="checkbox-group">
+            <input class="calculate-checkbox-input" checked type="checkbox" id="return" v-model="checked" @change="calculate($event)" />
+            <label class="calculate-checkbox-label" for="return">
+              <icon-return-way v-if="checked"></icon-return-way>
+              <icon-single-way v-else></icon-single-way>
+            </label>
           </div>
           <div class="form-group">
-            <label for="iata2" class="form-label">to</label>
-            <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" placeholder="Type airport here..." @input="calculate()" />
+            <label for="iata2" class="form-label icon reverse icon-plane"><icon-plane></icon-plane></label>
+            <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" id="iata2" class="form-input" placeholder="To" @input="calculate()" />
           </div>
         </div>
-        <div class="calculate-switch">
-          <div class="calculate-checkbox">
-            <div class="checkbox-group">
-              <input class="calculate-checkbox-input" checked type="checkbox" id="return" v-model="checked" @change="calculate($event)" />
-              <label class="calculate-checkbox-label" for="return">return</label>
-            </div>
-          </div>
+        <div class="result-wrapper">
           <div class="calculate-result">
-            <span class="calculate-result-value">Putin earns {{ moneytorussia }}€.</span>
+            Putin earns<span class="calculate-result-value"> {{ moneytorussia }}€</span>
           </div>
+          <Transition>
+            <div  v-if="moneytorussia != 0" class="result-donate">
+              <span class="result-donate-msg">Do you want help to Ukraine?</span><a class="btn bg-blue" href="">donate {{ moneytorussia }}€</a>
+            </div>
+          </Transition>
         </div>
       </div>
     </div>
@@ -33,12 +39,18 @@
 
 <script>
 import AutoComplete from 'primevue/autocomplete';
+import IconPlane from './IconPlane.vue';
+import IconReturnWay from './IconReturnWay.vue';
+import IconSingleWay from './IconSingleWay.vue';
 const API_URL = 'https://api.putinhuil.io/flight/'
 
 export default {
   name: 'FormSection',
   components: { 
-    AutoComplete
+    AutoComplete,
+    IconPlane,
+    IconReturnWay,
+    IconSingleWay
   },
   data() {
     return {
@@ -107,115 +119,186 @@ export default {
 
 <style lang="scss">
   $form-max: 100%;
+  $grey: #f5f7f9;
+  $yellow: #ffd100;
   .calculate-form {
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     max-width: $form-max;
   }
   .form {
     &-group {
       margin-right: 20px;
       flex: 1;
+      display: flex;
+      border: 1px solid $yellow;
+      border-radius: 5px;
+      position: relative;
+      &:last-child {
+        margin-right: 0;
+      }
     }
     &-label {
-      display: block;
-      font-size: 13px;
-      font-weight: bold;
-      margin-bottom: 5px;
+      border-radius: 5px 0 0 5px;
+      padding: 8px;
+      background-color: $yellow;
     }
     &-input {
-      .simple-typeahead-input {
+      width: 100%;
+      input {
         max-width: 100%;
         width: 100%;
         padding: 8px 5px;
         font-size: 16px;
+        outline: none;
       }
     }
     &-button {
       margin: auto 0 0 auto;
     }
   }
-  .calculate-switch {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: $form-max;
-    flex-wrap: wrap;
-  }
   .calculate-result {
-    display: flex;
+    display: inline-flex;
+    justify-content: center;
     align-items: flex-end;
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+    padding: 10px 0px 0 0;
+    border-top: 2px dotted #e00505;
+
     &-value {
       color: #e00505;
-      font-size: 34px;
+      font-size: 22px;
       padding-left: 10px;
       line-height: 1;
+      font-weight: bold;
+    }
+  }
+  .result-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+    .v-enter-active,
+    .v-leave-active {
+      transition: opacity 0.7s ease 1s;
+    }
+
+    .v-enter-from,
+    .v-leave-to {
+      opacity: 0;
+    }
+  }
+  .result-donate {
+    display: flex;
+    align-items: center;
+
+    &-msg {
+      font-weight: bold;
+      padding-right: 20px;
+      font-size: 14px;
     }
   }
   .calculate-checkbox {
     &-input {
-      margin-left: 0;
-      margin-right: 5px;
+      display: none;
     }
     &-label {
-      font-size: 16px;
-      line-height: 1.45;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 60px;
+      height: 100%;
+      background-color: $yellow;
+      border-radius: 3px;
+      max-height: 36px;
+      cursor: pointer;
+      opacity: 1;
+      transition: all 0.3s;
+
+      &:hover {
+        opacity: 0.8;
+      }
+
+      svg {
+        width: 25px;
+        max-height: 100%;
+      }
     }
   }
   .checkbox-group {
-    &:first-child {
-      margin-bottom: 10px;
-    }
+    margin-right: 20px;
   }
-  .simple-typeahead {
-    position: relative;
-    width: 100%;
-    font-size: 16px;
-
-    &-list {
-      position: absolute;
+  .icon {
+    svg {
       width: 100%;
-      border: none;
-      max-height: 400px;
-      overflow-y: auto;
-      z-index: 10;
-      border-bottom: 1px solid #d1d1d1;
+      height: 100%;
+    }
+    &-plane {
+      width: 36px;
+      height: 36px;
 
-      
-      &-item {
-        font-size: 14px;
-        background-color: #fff;
-        padding: 3px 8px;
-        border-bottom: 1px solid #d1d1d1;
-        border-left: 1px solid #d1d1d1;
-        border-right: 1px solid #d1d1d1;
-        cursor: pointer;
-        &:last-child {
-          border-bottom: 0;
-        }
-        &:hover,
-        &.active {
-          background-color: #f1f1f1;
+      &.reverse {
+        svg {
+          backface-visibility: hidden;
+          -webkit-font-smoothing: subpixel-antialiased;
+          transform: rotate(45deg);
+          transform-origin: 50% 50%;
         }
       }
     }
   }
-  
+  .p-autocomplete {
+    max-width: 100%;
+    display: inline-flex;
+  }
+  .p-autocomplete-panel {
+    background-color: #fff;
+    font-family: inherit;
+  }
+  .p-autocomplete-item {
+    padding: 5px 3px;
+    font-size: 16px;
+    border-bottom: 1px solid #e3e3e3;
+    opacity: .7;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+
   @media screen and (max-width: 768px) {
     .calculate-form {
       flex-direction: column;
       align-content: center;
+      margin-bottom: 20px;
     }
     .form-group {
       margin: 0 0 20px 0;
       width: 100%;
     }
-    .form-input .simple-typeahead-input {
-      max-width: 100%;
+    .checkbox-group {
+      margin-right: 0;
     }
+    .calculate-checkbox-label {
+      margin: 0 auto 20px;
+      width: 100px;
+    }
+    .result-wrapper {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .calculate-result {
+      margin-bottom: 30px;
+    }
+    .result-donate {
+      flex-direction: column;
 
+      &-msg {
+        padding: 0 0 20px;
+      }
+    }
   }
 </style>

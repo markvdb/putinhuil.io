@@ -1,5 +1,5 @@
 <template>
-	<section class="section">
+	<section class="section bg">
 		<div class="container">
 			<div class="box transparent">
 				<div class="text">
@@ -11,9 +11,9 @@
 					Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing 
 					software like Aldus PageMaker including versions of Lorem Ipsum.
 				</div>
-				<!-- <div class="center">
+				<div class="center">
 					<a class="btn bg-blue" href="">help Ukraine</a>
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</section>
@@ -21,7 +21,7 @@
 
 <script>
 export default {
-  name: 'InfoSection'
+  name: 'InfoSection2'
 }
 </script>
 
