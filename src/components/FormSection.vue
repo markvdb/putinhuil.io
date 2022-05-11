@@ -3,15 +3,15 @@
     <div class="container">
       <div class="box">
         <p class="text form-title">
-          How much do I pay Putin when I fly?
+          What does Putin earn on a flight?
         </p>
         <div class="calculate-form">
           <div class="form-group">
-            <label for="iata1" class="form-label">from:</label>
+            <label for="iata1" class="form-label">from</label>
             <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" placeholder="Type airport here..." @input="calculate()" />
           </div>
           <div class="form-group">
-            <label for="iata2" class="form-label">to:</label>
+            <label for="iata2" class="form-label">to</label>
             <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" placeholder="Type airport here..." @input="calculate()" />
           </div>
         </div>
@@ -19,11 +19,11 @@
           <div class="calculate-checkbox">
             <div class="checkbox-group">
               <input class="calculate-checkbox-input" checked type="checkbox" id="return" v-model="checked" @change="calculate($event)" />
-              <label class="calculate-checkbox-label" for="return">return flight</label>
+              <label class="calculate-checkbox-label" for="return">return</label>
             </div>
           </div>
           <div class="calculate-result">
-            <span class="calculate-result-value"> {{ moneytorussia }}€ to Putin</span>
+            <span class="calculate-result-value">Putin earns {{ moneytorussia }}€.</span>
           </div>
         </div>
       </div>
