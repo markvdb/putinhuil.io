@@ -16,7 +16,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-  $blue: #2b47ff;
+  $blue: #66b0ff;
   $yellow: #ffd100;
   .header-wrap {
     border-bottom: 2px solid $yellow;

@@ -36,17 +36,21 @@
     -moz-box-shadow: none;
     box-shadow: none;
   }
-  $blue: #2b47ff;
+  $blue: #66b0ff;
   $yellow: #ffd100;
   $grey: #f5f7f9;
 
-    body {
-      font-family: Avenir, Helvetica, Arial, sans-serif;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-    }
+  body {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
   * {
     box-sizing: border-box;
+  }
+  main {
+    background-color: #f5f7f9;
+    height: calc(100vh - 32px);
   }
   button {
     box-shadow: none;
@@ -67,10 +71,10 @@
     }
   }
   .title {
-    font-size: 20px;
+    font-size: 14px;
     letter-spacing: 0.2px;
-    text-transform: uppercase;
     margin-bottom: 40px;
+    padding-bottom: 5px;
   }
   .text {
     font-size: 16px;
@@ -80,7 +84,7 @@
   }
   
   .btn {
-    padding: 10px 30px;
+    padding: 10px 20px;
     text-decoration: none;
     font-weight: bold;
     font-size: 16px;
@@ -123,11 +127,10 @@
   }
   @media screen and (min-width: 1025px) {
     main {
-      // height: calc(100vh - 32px);
-      // display: flex;
-      // flex-direction: column;
-      // justify-content: center;
-      padding-top: 5vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      // padding-top: 5vh;
     }
   }
   @media screen and (max-width: 768px) {
