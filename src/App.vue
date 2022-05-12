@@ -75,7 +75,7 @@
   .text {
     font-size: 16px;
     line-height: 1.45;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     letter-spacing: 0.2px;
   }
   
@@ -107,7 +107,7 @@
     color: #fff;
   }
   .box {
-    padding: 20px;
+    padding: 40px;
     background-color: #fff;
       &.border {
         border-radius: 3px;
@@ -120,5 +120,22 @@
   }
   .center {
     text-align: center;
+  }
+  @media screen and (min-width: 1025px) {
+    main {
+      // height: calc(100vh - 32px);
+      // display: flex;
+      // flex-direction: column;
+      // justify-content: center;
+      padding-top: 5vh;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .box {
+      padding: 20px;
+    }
+    .section {
+      padding: 30px 0;
+    }
   }
 </style>

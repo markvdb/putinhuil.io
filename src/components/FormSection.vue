@@ -2,9 +2,9 @@
   <section class="section bg">
     <div class="container">
       <div class="box border">
-        <h1 class="title">
+        <!-- <h1 class="title">
           What does Putin earn on a flight?
-        </h1>
+        </h1> -->
         <div class="calculate-form">
           <div class="form-group">
             <label for="iata1" class="form-label icon icon-plane"><icon-plane></icon-plane></label>
@@ -24,7 +24,7 @@
         </div>
         <div class="result-wrapper">
           <div class="calculate-result">
-            Putin earns<span class="calculate-result-value"> {{ moneytorussia }}€</span>
+            Putin receives <span class="calculate-result-value"> {{ moneytorussia }}€ </span> for oil from this flight
           </div>
           <Transition>
             <div  v-if="moneytorussia != 0" class="result-donate">
@@ -132,24 +132,24 @@ export default {
       margin-right: 20px;
       flex: 1;
       display: flex;
-      border: 1px solid $yellow;
-      border-radius: 5px;
+      border: 1px solid #cecece;
+      border-radius: 10px;
       position: relative;
       &:last-child {
         margin-right: 0;
       }
     }
     &-label {
-      border-radius: 5px 0 0 5px;
-      padding: 8px;
-      background-color: $yellow;
+      border-radius: 8px 0 0 8px;
+      padding: 10px;
+      background-color: #e3e3e3;
     }
     &-input {
       width: 100%;
       input {
         max-width: 100%;
         width: 100%;
-        padding: 8px 5px;
+        padding: 12px 10px;
         font-size: 16px;
         outline: none;
       }
@@ -165,21 +165,23 @@ export default {
     font-size: 20px;
     letter-spacing: 0.2px;
     text-transform: uppercase;
-    padding: 10px 0px 0 0;
-    border-top: 2px dotted #e00505;
+    flex-wrap: wrap;
 
     &-value {
       color: #e00505;
       font-size: 22px;
       padding-left: 10px;
+      padding-right: 10px;
       line-height: 1;
       font-weight: bold;
     }
   }
   .result-wrapper {
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
 
     .v-enter-active,
     .v-leave-active {
@@ -190,6 +192,9 @@ export default {
     .v-leave-to {
       opacity: 0;
     }
+  }
+  .calculate-result {
+    margin-bottom: 30px;
   }
   .result-donate {
     display: flex;
@@ -211,9 +216,8 @@ export default {
       justify-content: center;
       width: 60px;
       height: 100%;
-      background-color: $yellow;
-      border-radius: 3px;
-      max-height: 36px;
+      background-color: #e3e3e3;
+      border-radius: 10px;
       cursor: pointer;
       opacity: 1;
       transition: all 0.3s;
@@ -237,8 +241,8 @@ export default {
       height: 100%;
     }
     &-plane {
-      width: 36px;
-      height: 36px;
+      width: 40px;
+      height: 100%;
 
       &.reverse {
         svg {
@@ -279,19 +283,16 @@ export default {
       margin: 0 0 20px 0;
       width: 100%;
     }
+    .form-input input {
+      padding: 10px;
+    }
     .checkbox-group {
       margin-right: 0;
     }
     .calculate-checkbox-label {
       margin: 0 auto 20px;
       width: 100px;
-    }
-    .result-wrapper {
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .calculate-result {
-      margin-bottom: 30px;
+      height: 40px;
     }
     .result-donate {
       flex-direction: column;

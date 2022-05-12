@@ -3,7 +3,7 @@
     <div class="container">
       <div class="header">
         <span class="header-name">putinhuil.io</span>
-        <a class="btn bg-blue" href="">donate</a>
+        <!-- <a class="btn bg-blue" href="">donate</a> -->
       </div>
     </div>
   </header>
@@ -16,6 +16,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
+  $blue: #2b47ff;
   $yellow: #ffd100;
   .header-wrap {
     border-bottom: 2px solid $yellow;
@@ -23,12 +24,12 @@ export default {
   }
   .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    height: 70px;
+    height: 30px;
 
     &-name {
-      font-size: 30px;
+      font-size: 16px;
       font-weight: bold;
     }
   }

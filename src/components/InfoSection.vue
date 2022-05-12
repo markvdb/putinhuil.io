@@ -11,9 +11,9 @@
 					Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing 
 					software like Aldus PageMaker including versions of Lorem Ipsum.
 				</div>
-				<!-- <div class="center">
+				<div class="center">
 					<a class="btn bg-blue" href="">help Ukraine</a>
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</section>
