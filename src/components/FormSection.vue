@@ -28,7 +28,7 @@
           </div>
           <Transition>
             <div class="result-donate">
-              <a class="btn bg-blue" href="https://donate.redcrossredcrescent.org/ua/donate/~my-donation">Donate</a>
+              <a class="btn bg-blue" href="https://donate.redcrossredcrescent.org/ua/donate/~my-donation">Donate {{ moneytorussia }}€</a>
               <span class="result-donate-msg">to the Red Cross Ukraine emergency appeal</span>
             </div>
           </Transition>
@@ -281,6 +281,10 @@ export default {
     &:hover {
       opacity: 1;
     }
+  }
+
+  .title {
+    font-size: 16px;
   }
 
   @media screen and (max-width: 768px) {
