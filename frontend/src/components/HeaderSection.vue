@@ -15,19 +15,19 @@
       </p>
       <ul class="nav-list">
         <li class="nav-list-item">
-          <a href="" class="nav-link">link1</a>
+          <a target="_blank" href="" class="nav-link">link1</a>
         </li>
         <li class="nav-list-item">
-          <a href="" class="nav-link">link2</a>
+          <a target="_blank" href="" class="nav-link">link2</a>
         </li>
         <li class="nav-list-item">
-          <a href="" class="nav-link">link3</a>
+          <a target="_blank" href="" class="nav-link">link3</a>
         </li>
         <li class="nav-list-item">
-          <a href="" class="nav-link">Our facebook</a>
+          <a target="_blank" href="" class="nav-link">Our facebook</a>
         </li>
         <li class="nav-list-item">
-          <a href="" class="nav-link">Our twitter</a>
+          <a target="_blank" href="" class="nav-link">Our twitter</a>
         </li>
       </ul>
     </nav>
@@ -44,7 +44,8 @@ export default {
     }
   },
   methods: {
-    sideMenu() {
+    sideMenu(event) {
+      let clicked = event.target;
       if (!this.menu && !this.shown) {
         const elem = this.$refs.menu;
         setTimeout(() => {
@@ -53,10 +54,12 @@ export default {
         }, 1);
         this.menu = true; //show menu
       } else {
-        this.menu = false; //hide menu
-        setTimeout(() => {
-          this.shown = false; //avoid conflcit button click and focusout menu
-        }, 200);
+        if (!clicked.contains(event.relatedTarget)) { //check if not child node
+          this.menu = false; //hide menu
+          setTimeout(() => {
+            this.shown = false; //avoid conflcit button click and focusout menu
+          }, 200);
+        }
       }
     },
   }
@@ -117,6 +120,7 @@ export default {
       }
 
       &.active {
+        position: fixed;
         span {
           margin: 0;
         }
