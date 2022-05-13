@@ -3,12 +3,13 @@
     <div class="container">
       <div class="box border">
         <h1 class="title">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry
+          <!--As long as we buy Russian oil to fly, Putin profits. How much?-->
+          Europe is still buying Russian oil. How much does Putin profit when we fly?
         </h1>
         <div class="calculate-form">
           <div class="form-group">
             <label for="iata1" class="form-label icon icon-plane"><icon-plane></icon-plane></label>
-            <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" id="iata1" class="form-input" placeholder="From where" @input="calculate()" />
+            <AutoComplete forceSelection v-model="iata1" :suggestions="filteredAirports1" @complete="searchAirport1($event)" field="airport" id="iata1" class="form-input" placeholder="from" @input="calculate()" />
           </div>
           <div class="checkbox-group">
             <input class="calculate-checkbox-input" checked type="checkbox" id="return" v-model="checked" @change="calculate($event)" />
@@ -19,16 +20,17 @@
           </div>
           <div class="form-group">
             <label for="iata2" class="form-label icon reverse icon-plane"><icon-plane></icon-plane></label>
-            <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" id="iata2" class="form-input" placeholder="To" @input="calculate()" />
+            <AutoComplete forceSelection v-model="iata2" :suggestions="filteredAirports2" @complete="searchAirport2($event)" field="airport" id="iata2" class="form-input" placeholder="to" @input="calculate()" />
           </div>
         </div>
-        <div class="result-wrapper">
+        <div v-if="moneytorussia != 0" class="result-wrapper">
           <div class="calculate-result">
-            Putin receives <span class="calculate-result-value"> {{ moneytorussia }}€ </span> for oil from this flight
+            <span class="calculate-result-value">= {{ moneytorussia }}€ to Putin for oil</span>
           </div>
           <Transition>
-            <div  v-if="moneytorussia != 0" class="result-donate">
-              <span class="result-donate-msg">Do you want help Ukraine?</span><a class="btn bg-blue" href="">donate {{ moneytorussia }}€</a>
+            <div class="result-donate">
+              <a class="btn bg-blue" href="https://donate.redcrossredcrescent.org/ua/donate/~my-donation">Donate</a>
+              <span class="result-donate-msg">to the Red Cross Ukraine emergency appeal</span>
             </div>
           </Transition>
         </div>
