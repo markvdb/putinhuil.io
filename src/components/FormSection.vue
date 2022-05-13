@@ -89,7 +89,7 @@ export default {
   methods: {
     async calculate() {
       try {
-        if (this.iata1.iata && this.iata2.iata) {
+        if (this.iata1.iata && this.iata2.iata && this.iata1.iata != this.iata2.iata) {
           this.loading = true;
           const url = API_URL + '?iata1=' + this.iata1.iata + '&iata2=' + this.iata2.iata + '&ret=' + this.checked;
           this.jsn = await (await fetch(url)).json();
@@ -306,13 +306,6 @@ export default {
     }
     .calculate-checkbox-label {
       margin: 0 auto 20px;
-    }
-    .result-donate {
-      flex-direction: column;
-
-      &-msg {
-        padding: 0 0 20px;
-      }
     }
   }
 </style>
