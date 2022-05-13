@@ -50,7 +50,7 @@
   }
   main {
     background-color: #f5f7f9;
-    height: calc(100vh - 32px);
+    height: calc(100vh - 42px);
   }
   button {
     box-shadow: none;
@@ -62,6 +62,10 @@
     max-width: 1024px;
     margin: 0 auto;
     padding: 0 20px;
+
+    &.full {
+      max-width: 100%;
+    }
   }
   .section {
     padding: 50px 0;
@@ -79,7 +83,7 @@
   .text {
     font-size: 16px;
     line-height: 1.45;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     letter-spacing: 0.2px;
   }
   

@@ -297,6 +297,8 @@ export default {
       margin: 0 0 20px 0;
       width: 100%;
       align-items: stretch;
+      flex: 0;
+      height: 45px;
     }
     .form-input input {
       padding: 10px;
