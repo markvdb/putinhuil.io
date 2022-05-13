@@ -3,7 +3,6 @@
     <div class="container">
       <div class="box border">
         <h1 class="title">
-          <!--As long as we buy Russian oil to fly, Putin profits. How much?-->
           Europe is still buying Russian oil. How much does Putin profit when we fly?
         </h1>
         <div class="calculate-form">
@@ -205,11 +204,13 @@ export default {
   }
   .result-donate {
     display: flex;
+    flex-direction: column;
     align-items: center;
 
     &-msg {
       font-weight: bold;
       padding-right: 20px;
+      padding-top: 20px;
       font-size: 14px;
     }
   }
