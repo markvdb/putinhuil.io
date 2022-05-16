@@ -58,7 +58,7 @@ export default {
           this.menu = false; //hide menu
           setTimeout(() => {
             this.shown = false; //avoid conflcit button click and focusout menu
-          }, 200);
+          }, 300);
         }
       }
     },
@@ -92,7 +92,7 @@ export default {
       padding: 5px;
       display: flex;
       flex-direction: column;
-      justify-content: center;
+      justify-content: space-evenly;
       align-items: center;
       cursor: pointer;
       opacity: 1;
@@ -121,6 +121,7 @@ export default {
 
       &.active {
         position: fixed;
+        justify-content: center;
         span {
           margin: 0;
         }
